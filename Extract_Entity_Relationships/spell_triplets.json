@@ -1,0 +1,2052 @@
+[
+  [
+    "Acid Surge",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Acid Surge",
+    "originates_in",
+    "Great Swamp"
+  ],
+  [
+    "Acid Surge",
+    "created_by",
+    "unknown pyromancer"
+  ],
+  [
+    "Acid Surge",
+    "found_in",
+    "Painted World of Ariamis"
+  ],
+  [
+    "Acid Surge",
+    "associated_with",
+    "Xanthous King Jeremiah"
+  ],
+  [
+    "Black Flame",
+    "discovered_in",
+    "Dark of the Abyss"
+  ],
+  [
+    "Black Flame",
+    "discovered_by",
+    "a pyromancer who wandered Oolacile"
+  ],
+  [
+    "Black Flame",
+    "found_in",
+    "Chasm of the Abyss"
+  ],
+  [
+    "Black Flame",
+    "associated_with",
+    "Oolacile"
+  ],
+  [
+    "Chaos Fire Whip",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Chaos Fire Whip",
+    "created_by",
+    "Witch of Izalith"
+  ],
+  [
+    "Chaos Fire Whip",
+    "associated_with",
+    "Flame of Chaos"
+  ],
+  [
+    "Chaos Fire Whip",
+    "associated_with",
+    "Daughters of Chaos"
+  ],
+  [
+    "Chaos Fire Whip",
+    "wielded_by",
+    "eldest of The Daughters of Chaos"
+  ],
+  [
+    "Chaos Fire Whip",
+    "found_in",
+    "Lost Izalith"
+  ],
+  [
+    "Chaos Storm",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Chaos Storm",
+    "created_by",
+    "Witch of Izalith"
+  ],
+  [
+    "Chaos Storm",
+    "associated_with",
+    "Flame of Chaos"
+  ],
+  [
+    "Chaos Storm",
+    "associated_with",
+    "Witch of Izalith"
+  ],
+  [
+    "Chaos Storm",
+    "associated_with",
+    "Izalith and her daughters"
+  ],
+  [
+    "Chaos Storm",
+    "originates_from",
+    "Chaos Servant Covenant"
+  ],
+  [
+    "Chaos Storm",
+    "given_by",
+    "Quelaag's Sister"
+  ],
+  [
+    "Chaos Storm",
+    "requires_offering",
+    "30 Humanities"
+  ],
+  [
+    "Flame of Chaos",
+    "created_by",
+    "Witch of Izalith"
+  ],
+  [
+    "Flame of Chaos",
+    "is_result_of",
+    "attempt to copy the First Flame"
+  ],
+  [
+    "Witch of Izalith",
+    "attempted_to_copy",
+    "First Flame"
+  ],
+  [
+    "Witch of Izalith",
+    "created",
+    "Flame of Chaos"
+  ],
+  [
+    "Combustion",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Combustion",
+    "created_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Combustion",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Combustion",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Combustion",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "located_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "located_in",
+    "Blighttown"
+  ],
+  [
+    "Fire Orb",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Fire Orb",
+    "improves_upon",
+    "Fireball"
+  ],
+  [
+    "Fire Orb",
+    "symbolizes",
+    "strength of the fire-manipulating pyromancers"
+  ],
+  [
+    "Fire Orb",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Fire Orb",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "located_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "located_in",
+    "Blighttown"
+  ],
+  [
+    "Fire Surge",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Fire Surge",
+    "originates_in",
+    "Great Swamp"
+  ],
+  [
+    "Fire Surge",
+    "created_by",
+    "unknown pyromancer"
+  ],
+  [
+    "Fire Surge",
+    "found_in",
+    "Painted World of Ariamis"
+  ],
+  [
+    "Fire Surge",
+    "dropped_by",
+    "Engorged Zombie"
+  ],
+  [
+    "Fire Tempest",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Fire Tempest",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with",
+    "Daughters of Chaos"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with",
+    "ancient dragons"
+  ],
+  [
+    "Fire Tempest",
+    "originates_from",
+    "Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "given_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "dropped_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Quelaana of Izalith",
+    "gives_after_defeating",
+    "Bed of Chaos"
+  ],
+  [
+    "Fire Whip",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Fire Whip",
+    "taught_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Whip",
+    "is_root_pyromancy_of",
+    "Combustion"
+  ],
+  [
+    "Fire Whip",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Whip",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_from",
+    "Izalith"
+  ],
+  [
+    "Fireball",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Fireball",
+    "originates_from",
+    "Great Swamp"
+  ],
+  [
+    "Fireball",
+    "associated_with",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Fireball",
+    "associated_with",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fireball",
+    "associated_with",
+    "Pyromancer"
+  ],
+  [
+    "Fireball",
+    "effective_against",
+    "corporeal beasts"
+  ],
+  [
+    "Fireball",
+    "effective_against",
+    "Undead"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "sells",
+    "Fireball"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "located_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "sells",
+    "Fireball"
+  ],
+  [
+    "Quelana of Izalith",
+    "located_in",
+    "Blighttown"
+  ],
+  [
+    "Pyromancer Class",
+    "starts_with",
+    "Fireball"
+  ],
+  [
+    "Firestorm",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Firestorm",
+    "taught_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Firestorm",
+    "associated_with",
+    "Quelana of Izalith"
+  ],
+  [
+    "Firestorm",
+    "originates_from",
+    "Izalith"
+  ],
+  [
+    "Firestorm",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Firestorm",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Flash Sweat",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Flash Sweat",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Carmina",
+    "harnessed_power_of",
+    "flame"
+  ],
+  [
+    "Carmina",
+    "is_pupil_of",
+    "Salaman the Master Pyromancer"
+  ],
+  [
+    "Flash Sweat",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "located_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Great Chaos Fireball",
+    "is_art_of",
+    "Flame of Chaos"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "Witch of Izalith"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "daughters of Witch of Izalith"
+  ],
+  [
+    "Great Chaos Fireball",
+    "can_melt",
+    "stone"
+  ],
+  [
+    "Great Chaos Fireball",
+    "is_gift_for_joining",
+    "Chaos Servant covenant"
+  ],
+  [
+    "Great Combustion",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Great Combustion",
+    "improves_upon",
+    "Combustion"
+  ],
+  [
+    "Great Combustion",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Great Combustion",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Great Combustion",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Great Combustion",
+    "mocked_by",
+    "many sorcerers"
+  ],
+  [
+    "Great Fireball",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Great Fireball",
+    "created_by",
+    "Salaman the Master Pyromancer"
+  ],
+  [
+    "Salaman the Master Pyromancer",
+    "also_known_as",
+    "Great Fireball"
+  ],
+  [
+    "Salaman the Master Pyromancer",
+    "believes",
+    "pyromancy is rooted in an adoration of fire"
+  ],
+  [
+    "Great Fireball",
+    "sold_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Quelaana of Izalith",
+    "is_in",
+    "Blighttown"
+  ],
+  [
+    "Iron Flesh",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Iron Flesh",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Iron Flesh",
+    "associated_with",
+    "flame"
+  ],
+  [
+    "Iron Flesh",
+    "associated_with",
+    "inner-self"
+  ],
+  [
+    "Iron Flesh",
+    "requires",
+    "caution"
+  ],
+  [
+    "Iron Flesh",
+    "found_at",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Iron Flesh",
+    "sold_by",
+    "Laurentius in Firelink Shrine"
+  ],
+  [
+    "Poison Mist",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Poison Mist",
+    "created_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "is_considered",
+    "heretic"
+  ],
+  [
+    "Eingyi",
+    "is_from",
+    "Great Swamp"
+  ],
+  [
+    "Eingyi",
+    "became",
+    "egg-bearing Undead"
+  ],
+  [
+    "Eingyi",
+    "serves",
+    "deformed young girl"
+  ],
+  [
+    "Poison Mist",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Poison Mist",
+    "sold_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "is_in",
+    "Blighttown"
+  ],
+  [
+    "Power Within",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Power Within",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Power Within",
+    "associated_with",
+    "flame"
+  ],
+  [
+    "Power Within",
+    "associated_with",
+    "inner-self"
+  ],
+  [
+    "Power Within",
+    "causes",
+    "strength/endurance boost"
+  ],
+  [
+    "Power Within",
+    "causes",
+    "lose HP"
+  ],
+  [
+    "Power Within",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Power Within",
+    "obtained_from",
+    "hanging corpse next to the Parasitic Wall Hugger in Blighttown"
+  ],
+  [
+    "Power Within",
+    "kept_secret",
+    "for eons"
+  ],
+  [
+    "Toxic Mist",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Toxic Mist",
+    "created_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "is_associated_with",
+    "Great Swamp"
+  ],
+  [
+    "Toxic Mist",
+    "is_sold_by",
+    "Eingyi"
+  ],
+  [
+    "Toxic Mist",
+    "is_found_in",
+    "Blighttown"
+  ],
+  [
+    "Toxic Mist",
+    "is_related_to",
+    "Parasite Egg"
+  ],
+  [
+    "Undead Rapport",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Undead Rapport",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Undead Rapport",
+    "associated_with",
+    "Undead"
+  ],
+  [
+    "Undead Rapport",
+    "originates_from",
+    "Izalith"
+  ],
+  [
+    "Undead Rapport",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Quelana of Izalith",
+    "located_in",
+    "Blighttown"
+  ],
+  [
+    "Acid Surge",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Acid Surge",
+    "originates_in",
+    "Great Swamp"
+  ],
+  [
+    "Acid Surge",
+    "created_by",
+    "unknown pyromancer"
+  ],
+  [
+    "Acid Surge",
+    "found_in",
+    "Painted World of Ariamis"
+  ],
+  [
+    "Acid Surge",
+    "associated_with",
+    "Xanthous King Jeremiah"
+  ],
+  [
+    "Black Flame",
+    "discovered_from",
+    "Dark of the Abyss"
+  ],
+  [
+    "Black Flame",
+    "discovered_by",
+    "a pyromancer"
+  ],
+  [
+    "a pyromancer",
+    "wandered_in",
+    "Oolacile"
+  ],
+  [
+    "Black Flame",
+    "found_in",
+    "Chasm of the Abyss"
+  ],
+  [
+    "Black Flame",
+    "associated_with",
+    "physical damage"
+  ],
+  [
+    "Black Flame",
+    "associated_with",
+    "black flames"
+  ],
+  [
+    "Black Flame",
+    "associated_with",
+    "shields"
+  ],
+  [
+    "Chaos Fire Whip",
+    "is_art_of",
+    "Flame of Chaos"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "Witch of Izalith"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "daughters of Witch of Izalith"
+  ],
+  [
+    "Chaos Fire Whip",
+    "wielded_by",
+    "eldest of The Daughters of Chaos"
+  ],
+  [
+    "Chaos Fire Whip",
+    "found_in",
+    "Lost Izalith"
+  ],
+  [
+    "Chaos Fire Whip",
+    "guarded_by",
+    "Chaos Eater"
+  ],
+  [
+    "Chaos Storm",
+    "is_art_of",
+    "Flame of Chaos"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "Witch of Izalith"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "daughters of Witch of Izalith"
+  ],
+  [
+    "Witch of Izalith",
+    "created",
+    "Flame of Chaos"
+  ],
+  [
+    "Witch of Izalith",
+    "attempted_to_copy",
+    "First Flame"
+  ],
+  [
+    "Chaos Storm",
+    "is_found_in",
+    "Chaos Servant Covenant"
+  ],
+  [
+    "Chaos Storm",
+    "is_given_by",
+    "Quelaag's Sister"
+  ],
+  [
+    "Quelaag's Sister",
+    "requires",
+    "30 Humanities"
+  ],
+  [
+    "Combustion",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Combustion",
+    "is_created_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Combustion",
+    "is_created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Combustion",
+    "is_sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Combustion",
+    "is_sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "is_located_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_located_in",
+    "Blighttown"
+  ],
+  [
+    "Fire Orb",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Fire Orb",
+    "improves_upon",
+    "Fireball"
+  ],
+  [
+    "Fire Orb",
+    "symbolizes_strength_of",
+    "fire-manipulating pyromancers"
+  ],
+  [
+    "Fire Orb",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Fire Orb",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "is_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_in",
+    "Blighttown"
+  ],
+  [
+    "Fire Surge",
+    "is_type_of",
+    "Pyromancy"
+  ],
+  [
+    "Fire Surge",
+    "originates_in",
+    "Great Swamp"
+  ],
+  [
+    "Fire Surge",
+    "created_by",
+    "unknown pyromancer"
+  ],
+  [
+    "Fire Surge",
+    "found_in",
+    "Painted World of Ariamis"
+  ],
+  [
+    "Fire Surge",
+    "dropped_by",
+    "Engorged Zombie"
+  ],
+  [
+    "Fire Tempest",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Fire Tempest",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "resembles_spell_used_by",
+    "Daughters of Chaos"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with_event",
+    "challenge of ancient dragons"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with_result",
+    "scorching of the earth"
+  ],
+  [
+    "Fire Tempest",
+    "gifted_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "dropped_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with_location",
+    "Izalith"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_part_of",
+    "Daughters of Chaos"
+  ],
+  [
+    "Fire Whip",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Fire Whip",
+    "taught_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Whip",
+    "is_root_pyromancy_of",
+    "Combustion"
+  ],
+  [
+    "Fire Whip",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Whip",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Fireball",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Fireball",
+    "originates_from",
+    "Great Swamp"
+  ],
+  [
+    "Fireball",
+    "is_effective_against",
+    "corporeal beasts"
+  ],
+  [
+    "Fireball",
+    "is_effective_against",
+    "Undead"
+  ],
+  [
+    "Fireball",
+    "associated_with",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Fireball",
+    "associated_with",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fireball",
+    "associated_with",
+    "Pyromancer"
+  ],
+  [
+    "Fireball",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Fireball",
+    "sold_at",
+    "Firelink Shrine"
+  ],
+  [
+    "Fireball",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fireball",
+    "sold_at",
+    "Blighttown"
+  ],
+  [
+    "Firestorm",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Firestorm",
+    "taught_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Firestorm",
+    "associated_with",
+    "Primal pyromancy"
+  ],
+  [
+    "Firestorm",
+    "originates_from",
+    "Izalith"
+  ],
+  [
+    "Firestorm",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Firestorm",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Flash Sweat",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Flash Sweat",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Carmina",
+    "harnessed_power_of",
+    "flame"
+  ],
+  [
+    "Carmina",
+    "is_pupil_of",
+    "Salaman the Master Pyromancer"
+  ],
+  [
+    "Flash Sweat",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "is_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Great Chaos Fireball",
+    "is_art_of",
+    "Flame of Chaos"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "Witch of Izalith"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "daughters of Witch of Izalith"
+  ],
+  [
+    "Great Chaos Fireball",
+    "associated_with",
+    "Chaos Servant Covenant"
+  ],
+  [
+    "Chaos Servant Covenant",
+    "gives_gift",
+    "Great Chaos Fireball"
+  ],
+  [
+    "Great Combustion",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Great Combustion",
+    "improves_upon",
+    "Combustion"
+  ],
+  [
+    "Great Combustion",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Great Combustion",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Great Combustion",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Great Combustion",
+    "mocked_by",
+    "many sorcerers"
+  ],
+  [
+    "Great Fireball",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Great Fireball",
+    "created_by",
+    "Salaman the Master Pyromancer"
+  ],
+  [
+    "Salaman the Master Pyromancer",
+    "is_also_called",
+    "Great Fireball"
+  ],
+  [
+    "Salaman the Master Pyromancer",
+    "believed",
+    "pyromancy was rooted in an adoration of fire"
+  ],
+  [
+    "Great Fireball",
+    "sold_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Great Fireball",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Great Fireball",
+    "associated_with",
+    "Quelana of Izalith"
+  ],
+  [
+    "Iron Flesh",
+    "is_pyromancy_of",
+    "Carmina"
+  ],
+  [
+    "Iron Flesh",
+    "harnesses_power_of",
+    "flame"
+  ],
+  [
+    "Iron Flesh",
+    "requires_caution_for",
+    "caster"
+  ],
+  [
+    "Iron Flesh",
+    "sold_by",
+    "Laurentius"
+  ],
+  [
+    "Laurentius",
+    "is_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Poison Mist",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Poison Mist",
+    "created_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "is_considered",
+    "heretic"
+  ],
+  [
+    "Eingyi",
+    "originated_from",
+    "Great Swamp"
+  ],
+  [
+    "Eingyi",
+    "became",
+    "egg-bearing Undead"
+  ],
+  [
+    "Eingyi",
+    "serves",
+    "deformed young girl"
+  ],
+  [
+    "Poison Mist",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Poison Mist",
+    "sold_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "located_in",
+    "Blighttown"
+  ],
+  [
+    "Eingyi",
+    "associated_with",
+    "Parasite Egg"
+  ],
+  [
+    "Power Within",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Power Within",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Power Within",
+    "associated_with",
+    "flame"
+  ],
+  [
+    "Power Within",
+    "associated_with",
+    "inner-self"
+  ],
+  [
+    "Power Within",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Power Within",
+    "obtained_from",
+    "hanging corpse next to the Parasitic Wall Hugger in Blighttown"
+  ],
+  [
+    "Power Within",
+    "has_effect_on",
+    "life-force of its caster"
+  ],
+  [
+    "Power Within",
+    "kept_secret_for",
+    "eons"
+  ],
+  [
+    "Toxic Mist",
+    "created_by",
+    "Eingyi"
+  ],
+  [
+    "Toxic Mist",
+    "associated_with",
+    "Great Swamp"
+  ],
+  [
+    "Toxic Mist",
+    "sold_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "resides_in",
+    "Blighttown"
+  ],
+  [
+    "Eingyi",
+    "considered",
+    "heretic"
+  ],
+  [
+    "Eingyi",
+    "associated_with",
+    "Parasite Egg"
+  ],
+  [
+    "Undead Rapport",
+    "is_type_of",
+    "Miracle"
+  ],
+  [
+    "Undead Rapport",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Undead Rapport",
+    "associated_with",
+    "pyromancy"
+  ],
+  [
+    "Undead Rapport",
+    "associated_with",
+    "Undead"
+  ],
+  [
+    "Undead Rapport",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Quelana of Izalith",
+    "located_in",
+    "Blighttown"
+  ],
+  [
+    "Acid Surge",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Acid Surge",
+    "originates_in",
+    "Great Swamp"
+  ],
+  [
+    "Acid Surge",
+    "is_foreign_to",
+    "Great Swamp"
+  ],
+  [
+    "Acid Surge",
+    "is_work_of",
+    "unknown pyromancer"
+  ],
+  [
+    "Acid Surge",
+    "found_in",
+    "Painted World of Ariamis"
+  ],
+  [
+    "Acid Surge",
+    "associated_with",
+    "Xanthous King Jeremiah"
+  ],
+  [
+    "Black Flame",
+    "discovered_in",
+    "Dark of the Abyss"
+  ],
+  [
+    "Black Flame",
+    "discovered_by",
+    "a pyromancer"
+  ],
+  [
+    "Black Flame",
+    "associated_with",
+    "Oolacile"
+  ],
+  [
+    "Black Flame",
+    "located_in",
+    "Chasm of the Abyss"
+  ],
+  [
+    "Black Flame",
+    "found_on",
+    "corpse deep in the Chasm of the Abyss"
+  ],
+  [
+    "Chaos Fire Whip",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Chaos Fire Whip",
+    "created_by",
+    "Witch of Izalith"
+  ],
+  [
+    "Chaos Fire Whip",
+    "associated_with",
+    "Flame of Chaos"
+  ],
+  [
+    "Chaos Fire Whip",
+    "associated_with",
+    "Daughters of Chaos"
+  ],
+  [
+    "Chaos Fire Whip",
+    "wielded_by",
+    "eldest of The Daughters of Chaos"
+  ],
+  [
+    "Chaos Fire Whip",
+    "found_in",
+    "Lost Izalith"
+  ],
+  [
+    "Chaos Fire Whip",
+    "guarded_by",
+    "Chaos Eater"
+  ],
+  [
+    "Chaos Storm",
+    "is_art_of",
+    "Flame of Chaos"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "Witch of Izalith"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "daughters of Witch of Izalith"
+  ],
+  [
+    "Witch of Izalith",
+    "attempted_to_copy",
+    "First Flame"
+  ],
+  [
+    "Witch of Izalith",
+    "created",
+    "Flame of Chaos"
+  ],
+  [
+    "Flame of Chaos",
+    "is",
+    "twisted bed of life"
+  ],
+  [
+    "Chaos Storm",
+    "is_found_in",
+    "Chaos Servant Covenant"
+  ],
+  [
+    "Chaos Storm",
+    "is_obtained_by",
+    "offering 30 Humanities to Quelaag's Sister"
+  ],
+  [
+    "Chaos Storm",
+    "is_associated_with",
+    "Chaos Servant Covenant"
+  ],
+  [
+    "Chaos Storm",
+    "is_associated_with",
+    "Quelaag's Sister"
+  ],
+  [
+    "Combustion",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Combustion",
+    "is_created_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Combustion",
+    "is_created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Combustion",
+    "is_sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Combustion",
+    "is_sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "is_located_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_located_in",
+    "Blighttown"
+  ],
+  [
+    "Fire Orb",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Fire Orb",
+    "improves_upon",
+    "Fireball"
+  ],
+  [
+    "Fire Orb",
+    "symbolizes",
+    "strength of the fire-manipulating pyromancers"
+  ],
+  [
+    "Fire Orb",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Fire Orb",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Orb",
+    "found_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Fire Orb",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "is_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_in",
+    "Blighttown"
+  ],
+  [
+    "Fire Surge",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Fire Surge",
+    "originates_in",
+    "Great Swamp"
+  ],
+  [
+    "Fire Surge",
+    "created_by",
+    "unknown pyromancer"
+  ],
+  [
+    "Fire Surge",
+    "found_in",
+    "Painted World of Ariamis"
+  ],
+  [
+    "Fire Surge",
+    "dropped_by",
+    "Engorged Zombie"
+  ],
+  [
+    "Fire Tempest",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Fire Tempest",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with",
+    "Daughters of Chaos"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with",
+    "ancient dragons"
+  ],
+  [
+    "Fire Tempest",
+    "given_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "dropped_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Fire Tempest",
+    "associated_with",
+    "Bed of Chaos"
+  ],
+  [
+    "Fire Whip",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Fire Whip",
+    "taught_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Whip",
+    "is_root_pyromancy_of",
+    "Combustion"
+  ],
+  [
+    "Fire Whip",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fire Whip",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_in",
+    "Blighttown"
+  ],
+  [
+    "Fireball",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Fireball",
+    "originates_from",
+    "Great Swamp"
+  ],
+  [
+    "Fireball",
+    "is_effective_against",
+    "corporeal beasts"
+  ],
+  [
+    "Fireball",
+    "is_effective_against",
+    "Undead"
+  ],
+  [
+    "Fireball",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Fireball",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Fireball",
+    "is_starting_spell_of",
+    "Pyromancer Class"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "is_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Quelana of Izalith",
+    "is_in",
+    "Blighttown"
+  ],
+  [
+    "Firestorm",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Firestorm",
+    "taught_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Firestorm",
+    "originates_from",
+    "Izalith"
+  ],
+  [
+    "Firestorm",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Firestorm",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Flash Sweat",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Flash Sweat",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Carmina",
+    "harnessed_power_of",
+    "flame"
+  ],
+  [
+    "Carmina",
+    "is_pupil_of",
+    "Salaman the Master Pyromancer"
+  ],
+  [
+    "Flash Sweat",
+    "sold_by",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Laurentius of the Great Swamp",
+    "is_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Great Chaos Fireball",
+    "is_art_of",
+    "Flame of Chaos"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "Witch of Izalith"
+  ],
+  [
+    "Flame of Chaos",
+    "engulfed",
+    "daughters of Witch of Izalith"
+  ],
+  [
+    "Great Chaos Fireball",
+    "associated_with",
+    "Chaos Servant Covenant"
+  ],
+  [
+    "Great Chaos Fireball",
+    "is_gift_for_joining",
+    "Chaos Servant covenant"
+  ],
+  [
+    "Great Combustion",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Great Combustion",
+    "improves_upon",
+    "Combustion"
+  ],
+  [
+    "Great Combustion",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Great Combustion",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Great Combustion",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Great Combustion",
+    "associated_with",
+    "Quelana of Izalith"
+  ],
+  [
+    "Great Combustion",
+    "mocked_by",
+    "many sorcerers"
+  ],
+  [
+    "Great Fireball",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Great Fireball",
+    "created_by",
+    "Salaman the Master Pyromancer"
+  ],
+  [
+    "Salaman the Master Pyromancer",
+    "is_also_called",
+    "Great Fireball"
+  ],
+  [
+    "Great Fireball",
+    "associated_with",
+    "adoration of fire"
+  ],
+  [
+    "Great Fireball",
+    "sold_by",
+    "Quelaana of Izalith"
+  ],
+  [
+    "Quelaana of Izalith",
+    "is_in",
+    "Blighttown"
+  ],
+  [
+    "Iron Flesh",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Iron Flesh",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Iron Flesh",
+    "associated_with",
+    "flame"
+  ],
+  [
+    "Iron Flesh",
+    "associated_with",
+    "inner-self"
+  ],
+  [
+    "Iron Flesh",
+    "requires",
+    "caution"
+  ],
+  [
+    "Iron Flesh",
+    "found_at",
+    "Laurentius of the Great Swamp"
+  ],
+  [
+    "Iron Flesh",
+    "sold_by",
+    "Laurentius in Firelink Shrine"
+  ],
+  [
+    "Poison Mist",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Poison Mist",
+    "created_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "is_considered",
+    "heretic"
+  ],
+  [
+    "Eingyi",
+    "associated_with",
+    "Great Swamp"
+  ],
+  [
+    "Eingyi",
+    "became",
+    "egg-bearing Undead"
+  ],
+  [
+    "Eingyi",
+    "serves",
+    "deformed young girl"
+  ],
+  [
+    "Poison Mist",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Poison Mist",
+    "sold_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "located_in",
+    "Blighttown"
+  ],
+  [
+    "Eingyi",
+    "gains_trust_by",
+    "becoming infected with the Parasite Egg"
+  ],
+  [
+    "Power Within",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Power Within",
+    "created_by",
+    "Carmina"
+  ],
+  [
+    "Power Within",
+    "associated_with",
+    "flame"
+  ],
+  [
+    "Power Within",
+    "associated_with",
+    "inner-self"
+  ],
+  [
+    "Power Within",
+    "originates_in",
+    "Blighttown"
+  ],
+  [
+    "Power Within",
+    "found_as_treasure_in",
+    "Blighttown"
+  ],
+  [
+    "Power Within",
+    "kept_secret_for",
+    "eons"
+  ],
+  [
+    "Toxic Mist",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Toxic Mist",
+    "created_by",
+    "Eingyi"
+  ],
+  [
+    "Eingyi",
+    "is_associated_with",
+    "Great Swamp"
+  ],
+  [
+    "Toxic Mist",
+    "is_sold_by",
+    "Eingyi"
+  ],
+  [
+    "Toxic Mist",
+    "is_found_in",
+    "Blighttown"
+  ],
+  [
+    "Eingyi",
+    "is_located_in",
+    "Blighttown"
+  ],
+  [
+    "Toxic Mist",
+    "is_related_to",
+    "Parasite Egg"
+  ],
+  [
+    "Undead Rapport",
+    "is_type_of",
+    "Sorcery"
+  ],
+  [
+    "Undead Rapport",
+    "created_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Undead Rapport",
+    "sold_by",
+    "Quelana of Izalith"
+  ],
+  [
+    "Undead Rapport",
+    "found_in",
+    "Blighttown"
+  ],
+  [
+    "Undead Rapport",
+    "associated_with",
+    "pyromancy"
+  ],
+  [
+    "Quelana of Izalith",
+    "resides_in",
+    "Blighttown"
+  ]
+]

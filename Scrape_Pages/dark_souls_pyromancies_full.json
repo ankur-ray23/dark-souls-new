@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Acid Surge",
+    "url": "http://darksouls.wikidot.com/acid-surge",
+    "uses": "2",
+    "slots": "1",
+    "short_description": "Breathe forth an acidic cloud that damages the weapons and armors of an enemy",
+    "location": "Painted World of Ariamis",
+    "affinity": "Ranged / Acid",
+    "in_game_description": "Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor. Not all pyromancy originates in the Great Swamp. One hears rumors of unknown pyromancers inhabiting various lands, and this spell is the work of one such outlander.",
+    "availability": [
+      "Treasure from a corpse in the Painted World of Ariamis : Turn right after the huge door after the bonfire, into the wide open area covered in impaled corpses and crows, where there are several torch-wielding Hollows and where Xanthous King Jeremiah spawns. Turn right again, the Acid Surge is tucked away behind an outcrop."
+    ]
+  },
+  {
+    "name": "Black Flame",
+    "url": "http://darksouls.wikidot.com/black-flame",
+    "uses": "8",
+    "slots": "1",
+    "short_description": "A quick and powerful melee spell designed to break guards",
+    "location": "Chasm of the Abyss",
+    "affinity": "Melee/Physical",
+    "in_game_description": "A pyromancy discovered from the Dark of the Abyss by a pyromancer who wandered Oolacile. Conjure a great black flame in one's palm. Black flames are weighty, and inflict physical damage, enough to smack away the mightiest of the shields.",
+    "availability": [
+      "Treasure on a corpse deep in the Chasm of the Abyss : After Sif is freed (or if arrived via the elevator) move towards the Prism Stone and follow the path downwards. Keep close to the right wall and move on. See the corpse behind three Humanity Phantoms ."
+    ]
+  },
+  {
+    "name": "Chaos Fire Whip",
+    "url": "http://darksouls.wikidot.com/chaos-fire-whip",
+    "uses": "80",
+    "slots": "2",
+    "short_description": "Sweep foes with chaos fire whip which leaves lava where it strikes",
+    "location": "Lost Izalith",
+    "affinity": "Melee / Fire",
+    "in_game_description": "Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Sweep foes with chaos fire whip This spell was wielded by the eldest of The Daughters of Chaos.",
+    "availability": [
+      "Treasure chest in Lost Izalith : Before entering the Bed of Chaos fog door, continue past the fog door until approaching a dead end with a Chaos Eater guarding the chest."
+    ]
+  },
+  {
+    "name": "Chaos Storm",
+    "url": "http://darksouls.wikidot.com/chaos-storm",
+    "uses": "20",
+    "slots": "2",
+    "short_description": "Pillars of fire erupt around the player. Creates pools of lava that can damage enemies where the pillars erupt",
+    "location": "reach +2 / in the / Chaos Servant Covenant",
+    "affinity": "Ranged / Fire",
+    "in_game_description": "Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Erects localized chaos fire pillars. The Witch of Izalith, in an ambitious attempt to copy the First Flame, created instead the Flame of Chaos, a twisted bed of life.",
+    "availability": [
+      "Reach +2 rank at the Chaos Servant Covenant by offering 30 Humanities to Quelaag's Sister ."
+    ]
+  },
+  {
+    "name": "Combustion",
+    "url": "http://darksouls.wikidot.com/combustion",
+    "uses": "16",
+    "slots": "1",
+    "short_description": "Summon forth a burst of flame from ones finger tips igniting enemies",
+    "location": "Laurentius of the Great Swamp / Quelana of Izalith",
+    "affinity": "Melee / Fire",
+    "in_game_description": "Elementary pyromancy. Create powerful flame in hand. One of the most basic pyromancies. For this very reason, the flame thus created is fierce.",
+    "availability": [
+      "Sold by Laurentius of the Great Swamp in Firelink Shrine .",
+      "Sold by Quelana of Izalith in Blighttown ."
+    ]
+  },
+  {
+    "name": "Fire Orb",
+    "url": "http://darksouls.wikidot.com/fire-orb",
+    "uses": "6",
+    "slots": "1",
+    "short_description": "Hurls a big ball of flame which creates a large explosion upon impact able to damage tightly packed enemies",
+    "location": "Laurentius of the Great Swamp / Quelana of Izalith",
+    "affinity": "Ranged / Fire",
+    "in_game_description": "Pyromancy which improves upon Fireball. Hurl fire orb. The flaming fire orb explodes upon impact, causing fire splash damage in a spectacle which seems to symbolize the strength of the fire-manipulating pyromancers.",
+    "availability": [
+      "Sold by Laurentius of the Great Swamp in Firelink Shrine .",
+      "Sold by Quelana of Izalith in Blighttown ."
+    ]
+  },
+  {
+    "name": "Fire Surge",
+    "url": "http://darksouls.wikidot.com/fire-surge",
+    "uses": "80",
+    "slots": "1",
+    "short_description": "Shoot a stream of fire from your hand much like a flamethrower. Can be used while moving",
+    "location": "Painted World of Ariamis",
+    "affinity": "Ranged / Fire",
+    "in_game_description": "Pyromancy foreign of the Great Swamp. Creates a surge of flame from palm to hand. Not all pyromancy originates in the Great Swamp. One hear rumors of unknown pyromancers inhabiting various lands, and this spell is the work of one such outlander.",
+    "availability": [
+      "Dropped by a special Engorged Zombie in the Painted World of Ariamis : Go down the well in the courtyard to find a small labyrinth of narrow, dark tunnels occupied by Skeleton Wheels . Go to the left, then again to the left at the first junction, another left, followed by an immediate right. A Skeleton Wheel will be guarding the stairwell up. At the floor at the top of the stairs is the Engorged Zombie"
+    ]
+  },
+  {
+    "name": "Fire Tempest",
+    "url": "http://darksouls.wikidot.com/fire-tempest",
+    "uses": "20",
+    "slots": "1",
+    "short_description": "Stronger version of Firestorm",
+    "location": "Quelana of Izalith",
+    "affinity": "Ranged / Fire",
+    "in_game_description": "Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity. The tempestuous raging flames resemble those summoned by the Daughters of Chaos when they challenged the ancient dragons and scorched the very earth.",
+    "availability": [
+      "Gift from Quelaana of Izalith after the Bed of Chaos is defeated.",
+      "Dropped by Quelaana of Izalith ."
+    ]
+  },
+  {
+    "name": "Fire Whip",
+    "url": "http://darksouls.wikidot.com/fire-whip",
+    "uses": "80",
+    "slots": "1",
+    "short_description": "Sweep foes with fire whip",
+    "location": "Quelana of Izalith",
+    "affinity": "Melee / Fire",
+    "in_game_description": "Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip. The root pyromancy of Combustion, but much more difficult to wield.",
+    "availability": [
+      "Sold by Quelana of Izalith in Blighttown ."
+    ]
+  },
+  {
+    "name": "Fireball",
+    "url": "http://darksouls.wikidot.com/fireball",
+    "uses": "8",
+    "slots": "1",
+    "short_description": "Throws a ball of flame which creates a small explosion upon impact able to damage tightly packed enemies",
+    "location": "Laurentius of the Great Swamp / Quelana of Izalith / Pyromancer / starting spell",
+    "affinity": "Ranged / Fire",
+    "in_game_description": "Standard pyromancy of the Great Swamp. Hurl fireball. The fire damage caused by fireballs makes them effective against corporeal beasts and Undead, who by nature fear flame.",
+    "availability": [
+      "Pyromancer Class starting Pyromancy.",
+      "Sold by Laurentius of the Great Swamp in Firelink Shrine .",
+      "Sold by Quelana of Izalith in Blighttown ."
+    ]
+  },
+  {
+    "name": "Firestorm",
+    "url": "http://darksouls.wikidot.com/firestorm",
+    "uses": "20",
+    "slots": "1",
+    "short_description": "Generates pillars of flame at random locations around the player",
+    "location": "Quelana of Izalith",
+    "affinity": "Ranged / Fire",
+    "in_game_description": "Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity. The storm of flame is indiscriminate, and incinerates all nearby life.",
+    "availability": [
+      "Sold by Quelana of Izalith in Blighttown ."
+    ]
+  },
+  {
+    "name": "Flash Sweat",
+    "url": "http://darksouls.wikidot.com/flash-sweat",
+    "uses": "3",
+    "slots": "1",
+    "short_description": "Covers the player in water, drastically reducing fire damage",
+    "location": "Laurentius of the Great Swamp",
+    "affinity": "Support / Water",
+    "in_game_description": "Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Intense sweating reduces flame damage. Carmina, the most accomplished pupil of Salaman the Master Pyromancer, pioneered new directions for the art of pyromancy.",
+    "availability": [
+      "Sold by Laurentius of the Great Swamp in Firelink Shrine ."
+    ]
+  },
+  {
+    "name": "Great Chaos Fireball",
+    "url": "http://darksouls.wikidot.com/great-chaos-fireball",
+    "uses": "4",
+    "slots": "2",
+    "short_description": "Hurl a huge fireball of pure chaotic flame. The heat and power of this spell leaves molten lava in its wake",
+    "location": "join the / Chaos Servant Covenant",
+    "affinity": "Ranged / Fire",
+    "in_game_description": "Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Hurl giant chaos fireball. The Flames of Chaos can melt stone, producing a short-lived lava glob.",
+    "availability": [
+      "Gift for joining the Chaos Servant covenant."
+    ]
+  },
+  {
+    "name": "Great Combustion",
+    "url": "http://darksouls.wikidot.com/great-combustion",
+    "uses": "8",
+    "slots": "1",
+    "short_description": "Summon forth a burst of fire from ones hand igniting enemies",
+    "location": "Quelana of Izalith",
+    "affinity": "Melee / Fire",
+    "in_game_description": "Pyromancy which improves upon Combustion. Create powerful, giant flame in hand. Great Combustion creates a powerful flame, but many sorcerers mock the simplicity of this spell.",
+    "availability": [
+      "Sold by Quelana of Izalith in Blighttown ."
+    ]
+  },
+  {
+    "name": "Great Fireball",
+    "url": "http://darksouls.wikidot.com/great-fireball",
+    "uses": "4",
+    "slots": "1",
+    "short_description": "Throw a big fireball that has a large area of effect",
+    "location": "Quelana of Izalith",
+    "affinity": "Range / Fire",
+    "in_game_description": "Ultimate fireball pyromancy. Hurl giant fireball. Salaman the Master Pyromancer, also called the Great Fireball after this spell, believed pyromancy was rooted in an adoration of fire. Those who acquire this spell usually agree.",
+    "availability": [
+      "Sold by Quelaana of Izalith in Blighttown ."
+    ]
+  },
+  {
+    "name": "Iron Flesh",
+    "url": "http://darksouls.wikidot.com/iron-flesh",
+    "uses": "3",
+    "slots": "1",
+    "short_description": "Turns the players body to solid metal. Increases physical and fire defense. Player is, however, greatly encumbered and cannot run or dodge.",
+    "location": "Laurentius of the Great Swamp",
+    "affinity": "Support",
+    "in_game_description": "Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Iron flesh boosts defense and resilience. Use of this pyromancy requires caution, as the caster becomes exceedingly heavy and unable to move freely.",
+    "availability": [
+      "Sold by Laurentius in Firelink Shrine ."
+    ]
+  },
+  {
+    "name": "Poison Mist",
+    "url": "http://darksouls.wikidot.com/poison-mist",
+    "uses": "3",
+    "slots": "1",
+    "short_description": "Breathe out a cloud of mist that gives Poison status to enemies who touch it",
+    "location": "Eingyi / Blighttown",
+    "affinity": "Ranged / Poison",
+    "in_game_description": "Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create poison mist. Eingyi became an egg-bearing Undead who serves a deformed young girl who speaks an unintelligible tongue.",
+    "availability": [
+      "Treasure in Blighttown , on a corpse in that carries the Pyromancer Set , located in the area of the poison lake.",
+      "Sold by Eingyi in Blighttown after gaining his trust by becoming infected with the Parasite Egg ."
+    ]
+  },
+  {
+    "name": "Power Within",
+    "url": "http://darksouls.wikidot.com/power-within",
+    "uses": "1",
+    "slots": "1",
+    "short_description": "Increases attack and defense but constantly drains health of the player",
+    "location": "Blighttown",
+    "affinity": "Support",
+    "in_game_description": "Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. strength/endurance boost, but lose HP. Excessive power eats away the life-force of its caster, and like all dangerous spells, Power Within was kept secret for eons.",
+    "availability": [
+      "Treasure from a hanging corpse next to the Parasitic Wall Hugger in Blighttown ."
+    ]
+  },
+  {
+    "name": "Toxic Mist",
+    "url": "http://darksouls.wikidot.com/toxic-mist",
+    "uses": "1",
+    "slots": "1",
+    "short_description": "Breathe out a cloud of mist that gives Toxic status to enemies who touch it",
+    "location": "Eingyi",
+    "affinity": "Ranged / Toxic",
+    "in_game_description": "Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp Create intense poison mist. Why was Eingyi driven from the Great Swamp? One only need cast this pyromancy, a perverse diversion from the art of fire, to find out.",
+    "availability": [
+      "Sold by Eingyi in Blighttown after gaining his trust by becoming infected with the Parasite Egg ."
+    ]
+  },
+  {
+    "name": "Undead Rapport",
+    "url": "http://darksouls.wikidot.com/undead-rapport",
+    "uses": "7",
+    "slots": "1",
+    "short_description": "Turns Undead into allies for a short time",
+    "location": "Quelana of Izalith",
+    "affinity": "Support",
+    "in_game_description": "Advanced pyromancy of Quelana of Izalith. Charm Undead and gain temporary allies. The living are lured by flame, and this relationship is part and parcel to the art of pyromancy. Can be used by either gender.",
+    "availability": [
+      "Sold by Quelana of Izalith in Blighttown for 10,000 Souls."
+    ]
+  }
+]

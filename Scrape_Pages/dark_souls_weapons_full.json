@@ -1,0 +1,2422 @@
+[
+  {
+    "category": "Fist",
+    "weapons": [
+      {
+        "name": "Caestus",
+        "url": "http://darksouls.wikidot.com/caestus",
+        "in_game_description": "The weapon augments one's bare handswith thick, studded leather. The Caestus has a short reach, but quicklycools down. Amount of damage inflicted isdependent on its wearer's strength.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Caestus",
+          "Damage": "66/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "51/8/0/0C/C/-/-",
+          "DamageReduction%": "0/0/0/0",
+          "Stability": "0"
+        }
+      },
+      {
+        "name": "Claw",
+        "url": "http://darksouls.wikidot.com/claw",
+        "in_game_description": "A weapon formed by three sharped claws. Attacks cause bleeding, and the woundsinflicted are not easily mended. Preferredweapon of the spooks of an Eastern land.",
+        "availability": [
+          "Rolling R1 attack is replaced by a second roll into a thrust attack.",
+          "R2 attacks are replaced by alternative wide horizontal slash attacks."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Claw",
+          "Damage": "72/0/0/0(Slash)",
+          "Durability": "150",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "61/14/0/0E/B/-/-",
+          "DamageReduction%": "0/0/0/0",
+          "Stability": "0"
+        }
+      },
+      {
+        "name": "Dark Hand",
+        "url": "http://darksouls.wikidot.com/dark-hand",
+        "in_game_description": "The Darkwraiths, incited byKaathe, use thepower of the dark soul to absorb humanity, anart shared by this weapon, which also acts asa special shield. The ancients, particularly,could sap the humanity of even a repletesaint in the blink of an eye.",
+        "availability": [
+          "When equipped in the left hand slot, the weak attack (block button) will spawn a blackhole-like shield with nodeflection. The strong attack will parry.",
+          "When equipped in the right hand slot, the strong attack will do a grab attack, similar to theDarkwraith enemy, that can absorb(soft) Humanityfrom invading online players and some NPCs."
+        ],
+        "stats_table": {
+          "Darkwraith covenant level": "0",
+          "Max. Humanities absorbed per use": "1"
+        }
+      },
+      {
+        "name": "Dragon Bone Fist",
+        "url": "http://darksouls.wikidot.com/dragon-bone-fist",
+        "in_game_description": "A weapon from the soul of the Iron Golem,guardian of Sen's Fortress who repelledcountless heroes who sought Anor Londo.The Gods fused the power of the soul withthe great bones of the dragons, forming anappropriate core for the giant golem.",
+        "availability": [
+          "Strong attack is a delayed jumping uppercut that drains high amount of stamina on block and can knock enemies down on hit. GrantsHyperarmorandVulnerabilityfor the duration spent off the ground."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dragon Bone Fist",
+          "Damage": "95/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "999",
+          "Weight": "8.0",
+          "Stats NeededStat Bonuses": "201/0/0/0A/-/-/-",
+          "DamageReduction%": "0/0/0/0"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Hammers",
+    "weapons": [
+      {
+        "name": "Blacksmith Giant Hammer",
+        "url": "http://darksouls.wikidot.com/blacksmith-giant-hammer",
+        "in_game_description": "Wooden hammer of the giant blacksmith inAnor Londo who handles lightning weapons. The giant blacksmith forges with this woodenhammer, as it would be hazardous to handlelightning weapons with metals. Can be used as a strike weapon, but betterleft in the hands of its talented owner.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a leaping smash, followed up by a right-to-left swing."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Blacksmith Giant Hammer",
+          "Damage": "120/0/0/200(Strike)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/0/0/0D/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Blacksmith Hammer",
+        "url": "http://darksouls.wikidot.com/blacksmith-hammer",
+        "in_game_description": "Metal hammer of Andre of Astora,blacksmith at the Old Church. Can be used as a strike weapon, but betterleft in the hands of its talented owner.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Blacksmith Hammer",
+          "Damage": "87/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/0/0/0C/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Hammer of Vamos",
+        "url": "http://darksouls.wikidot.com/hammer-of-vamos",
+        "in_game_description": "Metal hammer of Vamos, a skeleton blacksmithdeep within the Catacombs who rarely speaks. Can be used as a strike weapon, but betterleft in the hands of its talented owner.",
+        "availability": [
+          "Twinkling Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Hammer of Vamos",
+          "Damage": "115/0/64/0(Strike)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/0/0/0C/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Club",
+        "url": "http://darksouls.wikidot.com/club",
+        "in_game_description": "A simple wooden club.This simple bladeless strike weapon iseffective against most foes, is easilyhandled, and can break the guard of a shield.However, a single miss makes one wide open,so timing and proximities are crucial.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a leaping smash, followed up by a right-to-left swing."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Club",
+          "Damage": "87/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "101/0/0/0A/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Mace",
+        "url": "http://darksouls.wikidot.com/mace",
+        "in_game_description": "Iron hammer with a protrusive pommel.Standard weapon for clerics.This simple bladeless strike weapon iseffective against most foes, and canbreak the guard of a shield. However,one miss leaves one wide open.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Mace",
+          "Damage": "91/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "4.0",
+          "Stats NeededStat Bonuses": "121/0/0/0B/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Morning Star",
+        "url": "http://darksouls.wikidot.com/morning-star",
+        "in_game_description": "Hammer with a sharp spike on its pommel.One of the more barbaric cleric weapons. Uniquely, this hammer inflicts thrust damage,and causes bleeding.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Morning Star",
+          "Damage": "83/0/0/0(Strike)",
+          "Durability": "180",
+          "Weight": "4.0",
+          "Stats NeededStat Bonuses": "111/0/0/0C/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Pickaxe",
+        "url": "http://darksouls.wikidot.com/pickaxe",
+        "in_game_description": "Traditionally a mining tool, but the hardcone of the pommel is effective in battle. A downward swing of the Pickaxe can crushstone; a human head would be an afterthought.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Pickaxe",
+          "Damage": "89/0/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/0/0/0B/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Reinforced Club",
+        "url": "http://darksouls.wikidot.com/reinforced-club",
+        "in_game_description": "A club with leather nailed to the pommel.The burg Undead merchant proudly peddlesthis club, but its reinforcement is shoddy.Indeed, its attack is stronger, but theclub is no longer dependably sturdy.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a leaping smash, followed up by a right-to-left swing."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Reinforced Club",
+          "Damage": "97/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "100",
+          "Weight": "4.0",
+          "Stats NeededStat Bonuses": "121/0/0/0C/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Warpick",
+        "url": "http://darksouls.wikidot.com/warpick",
+        "in_game_description": "Hammer with a large beak-shaped pommel.Originally a pickaxe; redesigned for battle. This simple but deadly weapon hits heavilywith thrust damage, such that it easilycracks metal armor.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a slow right-to-left swing, followed up by a slow left-to-right swing."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Warpick",
+          "Damage": "91/0/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "220",
+          "Weight": "3.5",
+          "Stats NeededStat Bonuses": "111/10/0/0C/D/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Great Hammers",
+    "weapons": [
+      {
+        "name": "Demon's Great Hammer",
+        "url": "http://darksouls.wikidot.com/demon-s-great-hammer",
+        "in_game_description": "Demon weapon built from the stone archtrees.Used by lesser demons at North Undead Asylum. This hammer is imbued with no special power,but can merrily beat foes to a pulp,providing you have the strength to wield it.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Demon's Great Hammer",
+          "Damage": "138/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "600",
+          "Weight": "22",
+          "Stats NeededStat Bonuses": "461/0/0/0B/-/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Dragon Tooth",
+        "url": "http://darksouls.wikidot.com/dragon-tooth",
+        "in_game_description": "Created from an everlasting dragon tooth.Legendary great hammer of Havel the Rock. The dragon tooth will never break as it isharder than stone, and it grants its wielderresistance to magic and flame.",
+        "availability": [
+          "Dragon Scale"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dragon Tooth",
+          "Damage": "290/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "999",
+          "Weight": "18",
+          "Stats NeededStat Bonuses": "401/0/0/0D/-/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Grant",
+        "url": "http://darksouls.wikidot.com/grant",
+        "in_game_description": "A legendary weapon of the Way of White,granted to an Undead paladin long ago. This mass of iron can only be lifted by thosewith inhuman strength, but it is blessed,and very effective against agents of Dark.",
+        "availability": [
+          "Strong attack (2-handed) is replaced by aWrath of the Godseffect that scales with the weapon's Magic damage. This attack uses 200 durability points per use."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Grant",
+          "Damage": "130/130/0/0(Strike)",
+          "Critical": "100"
+        }
+      },
+      {
+        "name": "Great Club",
+        "url": "http://darksouls.wikidot.com/great-club",
+        "in_game_description": "Giant tree branch serves as a wooden club.Smashes enemies from upside the head. The leaping attack is a trademark of clubs,and this giant club is no exception.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a slow, heavy leaping overhead smash."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Great Club",
+          "Damage": "135/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "12.0",
+          "Stats NeededStat Bonuses": "281/0/0/0B/-/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Large Club",
+        "url": "http://darksouls.wikidot.com/large-club",
+        "in_game_description": "Large wooden club. The giant Undead of Blighttown wield theseclubs, which became poisonous from theinfluence of their surroundings.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by dashing horizontal swings.",
+          "Strong attack (2-handed) is replaced by a slow overhead smash."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Large Club",
+          "Damage": "120/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "11.0",
+          "Stats NeededStat Bonuses": "261/0/0/0A/-/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Smough's Hammer",
+        "url": "http://darksouls.wikidot.com/smough-s-hammer",
+        "in_game_description": "Great hammer from the soul of executionerSmough, who guards the cathedral in the forsaken city of Anor Londo.Smough loved his work, and ground the bonesof his victims into his own feed, ruining hishopes of being ranked with the Four Knights.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a delayed right-to-left swing.",
+          "Strong attack (2-handed) is replaced by a delayed leaping smash."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Smough's Hammer",
+          "Damage": "300/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "600",
+          "Weight": "28.0",
+          "Stats NeededStat Bonuses": "581/0/0/0D/-/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Axes",
+    "weapons": [
+      {
+        "name": "Battle Axe",
+        "url": "http://darksouls.wikidot.com/battle-axe",
+        "in_game_description": "Standard battle axe. Inflicts regular damage,making it effective in various situations.Powerful attack due to its weight, but onewrong swing leaves the wielder wide open,so timing and proximity to the enemy mustbe judged carefully.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Battle Axe",
+          "Damage": "95/0/0/0(Normal)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "4.0",
+          "Stats NeededStat Bonuses": "121/8/0/0C/D/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "36"
+        }
+      },
+      {
+        "name": "Butcher Knife",
+        "url": "http://darksouls.wikidot.com/butcher-knife",
+        "in_game_description": "Giant butcher knife wielded by the Undeadman-eating cook lurking in the Depths.More a tool for subduing and preparing livecatches than an actual weapon. Those whohave faced this deadly blade have a deepersense of how helpless prey must feel.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a run up to a vertical chop that does not cause staggering if it misses.",
+          "Strong attack (2-handed) is replaced by a heavy guillotine chop attack that does not cause staggering if it misses."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Butcher Knife",
+          "Damage": "90/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "10.0",
+          "Stats NeededStat Bonuses": "241/0/0/0B/-/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "36"
+        }
+      },
+      {
+        "name": "Crescent Axe",
+        "url": "http://darksouls.wikidot.com/crescent-axe",
+        "in_game_description": "Well-used old bronze battle axe with along hilt and a crescent-shaped blade. One of the blessed weapons of the Way ofWhite. The Crescent Axe is bequeathed tocleric warriors who have proven their faith.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Crescent Axe",
+          "Damage": "115/115/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "180",
+          "Weight": "7.0",
+          "Stats NeededStat Bonuses": "181/12/0/16D/D/-/B",
+          "DamageReduction%": "55/10/40/40"
+        }
+      },
+      {
+        "name": "Gargoyle Tail Axe",
+        "url": "http://darksouls.wikidot.com/gargoyle-tail-axe",
+        "in_game_description": "",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a heavy right-to-left horizontal slash, where the tail bends dramatically, and does not cause staggering if it misses.",
+          "Strong attack (2-handed) is replaced by a heavy uppercut slash, where the tail bends dramatically, and does not cause staggering if it misses."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Gargoyle Tail Axe",
+          "Damage": "93/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "150",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/14/0/0D/C/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "36"
+        }
+      },
+      {
+        "name": "Golem Axe",
+        "url": "http://darksouls.wikidot.com/golem-axe",
+        "in_game_description": "An Axe born from the soul of the Iron Golem,guardian of Sen's Fortress who repelledcountless heroes who sought Anor Londo.Its powerful one-handed attack imitates thegolem's blade of wind, but the heavy ironblade makes it quite unwieldy.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a wind projectile attack that inflicts damage identical to a 1-handed weak attack, causes knockdown on hit, and does not cause staggering if it misses. This attack consumes 30 durability.",
+          "Strong attack (2-handed) is replaced by a single heavy overhead chop to the floor and does not cause staggering if it misses."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Golem Axe",
+          "Damage": "170/0/0/0(Normal)",
+          "Critical": "100",
+          "Durability": "600",
+          "Weight": "16",
+          "Stats NeededStat Bonuses": "361/8/0/0C/E/-/-",
+          "Damage Reduction%": "55/10/40/40",
+          "Stability": "36"
+        }
+      },
+      {
+        "name": "Hand Axe",
+        "url": "http://darksouls.wikidot.com/hand-axe",
+        "in_game_description": "Small hand axe. Appears identical to alumberjack's tool, but has an ideal weightand strength, and is easy to handle.One wrong swing leaves the wielder wideopen, so timing and proximity to the enemymust be judged carefully.",
+        "availability": [
+          "Light attacks (1-handed & 2-handed) are replaced by fast, alternating horizontal slashes that do not cause staggering if they miss.",
+          "Strong attacks (1-handed & 2-handed) are replaced by the normal weak attack of axes."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Hand Axe",
+          "Damage": "80/0/0/0(Normal)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "2",
+          "Stats NeededStat Bonuses": "81/8/0/0C/D/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "36"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Greataxes",
+    "weapons": [
+      {
+        "name": "Black Knight Greataxe",
+        "url": "http://darksouls.wikidot.com/black-knight-greataxe",
+        "in_game_description": "Greataxe of the black knights who wanderLordran. Used to face chaos demons. The large motion that puts the weight of thebody into the attack reflects the great sizeof their adversaries long ago.",
+        "availability": [
+          "Light attacks (1-handed) are replaced by a horizontal swing followed by a horizontal swing.",
+          "Strong attack (1-handed) is replaced by a jumping downward smash.",
+          "Light attacks (2-handed) replaced by a faster diagonal swing followed by a diagonal swing.",
+          "Strong attack (2-handed) replaced with a delayed upward swing."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Black Knight Greataxe",
+          "Damage": "229/0/0/0(Regular)",
+          "Critical Bonus": "100",
+          "Durability": "300",
+          "Weight": "16.0",
+          "Stats NeededStat Bonuses": "361/18/0/0B/E/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Demon's Greataxe",
+        "url": "http://darksouls.wikidot.com/demon-s-greataxe",
+        "in_game_description": "Carved from the bones of fellow demons.Wielded by the lesser Taurus demons. This axe is imbued with no special power,but can merrily beat foes to a pulp,providing you have the strength to wield it.",
+        "availability": [
+          "Strong attacks (1-handed) are replaced with a large radius horizontal swing followed by a diagonal swing.",
+          "Strong attack (2-handed) is replaced replaced with a slow vertical smash."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Demon's Greataxe",
+          "Damage": "114/0/0/0(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "600",
+          "Weight": "22.0",
+          "Stats NeededStat Bonuses": "461/0/0/0A/-/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Dragon King Greataxe",
+        "url": "http://darksouls.wikidot.com/dragon-king-greataxe",
+        "in_game_description": "This axe, one of the rare dragon weapons,is formed by the tail of the Gaping Dragon,a distant, deformed descendant of theeverlasting dragons. The axe is imbued with a mystical power,to be released when held with both hands.",
+        "availability": [
+          "Strong attack (2-handed) is replaced by a very large area of effect Magic attack around the wielder. This attack gains bonus damage from the weapon's enchantment. Consumes 50 durability points per use."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dragon King Greataxe",
+          "Damage": "380/0/0/0(Regular)",
+          "Critical Bonus": "100",
+          "Durability": "400",
+          "Weight": "24.0",
+          "Stats NeededStat Bonuses": "501/8/0/0-/-/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Greataxe",
+        "url": "http://darksouls.wikidot.com/greataxe",
+        "in_game_description": "This greataxe is a veritable mass of iron.Its weight sends foes flying, but makes itdifficult to handle without inhuman strength. Any miss makes one very vulnerable, as eachswing requires the full force of the body.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Greataxe",
+          "Damage": "140/0/0/0(Regular)",
+          "Durability": "230",
+          "Weight": "14.0",
+          "Stats NeededStat Bonuses": "321/8/0/0C/E/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Stone Greataxe",
+        "url": "http://darksouls.wikidot.com/stone-greataxe",
+        "in_game_description": "Greataxe borne by the stone knightswho guard the forest Sanctuary. This greataxe, requiring inhuman strength towield and more fitted to manual labor thanbattle, is nevertheless completely lethal.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a right-to-left swing.",
+          "Strong attack (2-handed) is replaced by a smash followed by a ground explosion attack, similar to the attack used by theStone Guardians."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Stone Greataxe",
+          "Damage": "190/0/0/0(Regular)",
+          "Critical Bonus": "100",
+          "Durability": "700",
+          "Weight": "24.0",
+          "Stats NeededStat Bonuses": "481/10/0/0B/E/-/-",
+          "DamageReduction%": "55/10/40/40",
+          "Stability": "38"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Daggers",
+    "weapons": [
+      {
+        "name": "Bandit's Knife",
+        "url": "http://darksouls.wikidot.com/bandit-s-knife",
+        "in_game_description": "This wide single-edged shortsword isthe favorite of lowly thieves and bandits. Primarily a slicing weapon, but highlyeffective when used for critical hits,such as after parrying or from behind.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a heavy right-to-left swipe into a heavy left-to-right swipe."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Bandit's Knife",
+          "Damage": "56/0/0/0Bleed 300(Slash)",
+          "Critical": "147",
+          "Durability": "200",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "61/12/0/0E/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Dagger",
+        "url": "http://darksouls.wikidot.com/dagger",
+        "in_game_description": "This standard small dagger has only a modestattack but can be jabbed in rapid succession,and is effective in critical hits such asafter a parry or when stabbing in the back.With both slash and thrust attacks, thisdagger is useful in various situations.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dagger",
+          "Damage": "56/0/0/0(Normal)",
+          "Critical Bonus": "131",
+          "Durability": "200",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "51/8/0/0E/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Dark Silver Tracer",
+        "url": "http://darksouls.wikidot.com/dark-silver-tracer",
+        "in_game_description": "A dark silver dagger used by theLord's Blade Ciaran, of Gwyn's Four Knights. The victim is first distracted by the dazzlingstreaks of theGold Tracer, then stung bythe vicious poison of the dagger.",
+        "availability": [
+          "HP loss rate is 6 HP/seconds",
+          "Slowsstamina regenerationby -15 stamina/seconds",
+          "Lasts for 10 minutes"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dark Silver Tracer",
+          "Damage": "75/0/0/0(Slashing/Thrust)",
+          "Critical Bonus": "160",
+          "Durability": "120",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "61/25/0/0E/S/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Ghost Blade",
+        "url": "http://darksouls.wikidot.com/ghost-blade",
+        "in_game_description": "The ghosts of New Londo clutch this wickedlysharp dagger with their bony hands and makemincemeat of the living. One of the cursed weapons which can inflictdamage upon ghosts.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by two consecutive swipes followed by three consecutive swipes."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Ghost Blade",
+          "Damage": "110/0/0/0(Normal)",
+          "Critical Bonus": "127",
+          "Durability": "100",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "51/8/0/0E/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Parrying Dagger",
+        "url": "http://darksouls.wikidot.com/parrying-dagger",
+        "in_game_description": "This dagger is useful after parrying and isnormally equipped in the left hand. A favorite of the knights of Carim, who arefamous for fighting without a shield.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Parrying Dagger",
+          "Damage": "54/0/0/0(Slash/Thrust)",
+          "Critical Bonus": "131",
+          "Durability": "200",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "51/14/0/0E/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Priscilla's Dagger",
+        "url": "http://darksouls.wikidot.com/priscilla-s-dagger",
+        "in_game_description": "This sword, one of the rare dragon weapons,came from the tail of Priscilla, the DragonCrossbreed in the painted world of Ariamis.Possessing the power of lifehunt, it dancesabout when wielded, in a fashion reminiscentof the white-robed painting guardians.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a rising slash into a downward slash that can be followed up by a spinning horizontal slash.",
+          "Strong attack (2-handed) is replaced by a spinning slash followed by a rising slash."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Priscilla's Dagger",
+          "Damage": "80/0/0/0Bleed 500Dark 110(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "100",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "61/20/0/0-/A/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "26"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Thrusting Swords",
+    "weapons": [
+      {
+        "name": "Estoc",
+        "url": "http://darksouls.wikidot.com/estoc",
+        "in_game_description": "The largest of the thrusting swords.Can pierce an armored knight in one thrust. The blade is also sharp,allowing slicing as well.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a lunging right-to-left slash followed by a left-to-right slash.",
+          "Strong attack (2-handed) is replaced by a single delayed thrust."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Estoc",
+          "Damage": "75/0/0/0(Regular/Thrust)",
+          "Critical": "100",
+          "Durability": "150",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "101/12/0/0D/C/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "22"
+        }
+      },
+      {
+        "name": "Mail Breaker",
+        "url": "http://darksouls.wikidot.com/mail-breaker",
+        "in_game_description": "Standard small thrusting sword.Unsharpened but pointed solidshaft can pierce tough armor. Can be thrust using the weight of one's body,and is very effective for critical attacks.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a single delayed thrust."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Mail Breaker",
+          "Damage": "57/0/0/0(Normal)",
+          "CriticalBonus": "120",
+          "Durability": "200",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "51/12/0/0D/C/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "22"
+        }
+      },
+      {
+        "name": "Rapier",
+        "url": "http://darksouls.wikidot.com/rapier",
+        "in_game_description": "Standard thrusting sword. Regular one-handedattack can be delivered with shield held up.Can parry with use of left hand. Thrusting attacks pierce and are effectiveagainst foes with hard exteriors, but thewielder is left open to damage after a swing.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Rapier",
+          "Damage": "73/0/0/0(Thrust)",
+          "CriticalBonus": "110",
+          "Durability": "150",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "71/12/0/0D/C/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "22"
+        }
+      },
+      {
+        "name": "Ricard's Rapier",
+        "url": "http://darksouls.wikidot.com/ricard-s-rapier",
+        "in_game_description": "A rapier with intricate decorations. Chosenweapon of the infamous Undead Prince Ricard.Ricard's exploits are told in a monomyth.He was born into royalty, but wandered thelands in a fateful ill-conceived journey.He became Undead, and disappeared up North.",
+        "availability": [
+          "Strong attack (1-handed & 2-handed) is replaced by a shortly-delayed double thrust followed by four more thrusts delivered at very high speed."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Ricard's Rapier",
+          "Damage": "70/0/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "100",
+          "Weight": "2.0",
+          "Stats NeededStat Bonuses": "81/20/0/0E/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "22"
+        }
+      },
+      {
+        "name": "Velka's Rapier",
+        "url": "http://darksouls.wikidot.com/velka-s-rapier",
+        "in_game_description": "A symbolic, powerful thrusting sword usedby the pardoner serving Velka,Goddess of sin.It is no mere symbol to be sure; the pardoneris an inhuman swordsman, and wields thisenchanted blade with special sword technique.",
+        "availability": [
+          "Strong attacks (1-handed) are replaced by a quick, two hit reverse V-shaped swipe that does slash damage followed by a delayed thrust.",
+          "Strong attacks (2-handed) are replaced by a quick, two hit V-shaped swipe that does slash damage followed by a delayed thrust."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Velka's Rapier",
+          "Damage": "62/104/0/0Dark 110(Regular/Thrust)",
+          "CriticalBonus": "100",
+          "Durability": "130",
+          "Weight": "2",
+          "Stats NeededStat Bonuses": "81/16/16/0E/C/B/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "22"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Straight Swords",
+    "weapons": [
+      {
+        "name": "Astora's Straight Sword",
+        "url": "http://darksouls.wikidot.com/astora-s-straight-sword",
+        "in_game_description": "",
+        "availability": [
+          "Twinkling Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Astora Straight Sword",
+          "Damage": "80/80/0/0Holy 120(Normal/Thrust)",
+          "Critical Bonus": "100",
+          "Durability": "160",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "102/10/0/14C/C/-/C",
+          "DamageReduction%": "50/10/35/45",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Balder Side Sword",
+        "url": "http://darksouls.wikidot.com/balder-side-sword",
+        "in_game_description": "The knights of the ancient kingdom of Balderwielded these rock-solid, long swords whichare excellent for thrust attacks.Balder was the home of a Knight King Rendal,but the kingdom was reduced to ruins aftera widespread outbreak of Undead.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a thrust followed by a thrust."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Balder Side Sword",
+          "Damage": "80/0/0/0(Normal)",
+          "CriticalBonus": "100",
+          "Durability": "120",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "101/14/0/0E/B/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Barbed Straight Sword",
+        "url": "http://darksouls.wikidot.com/barbed-straight-sword",
+        "in_game_description": "",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a lunging right-to-left swing followed by a left-to-right swing.",
+          "Rolling attack (2-handed) is replaced by a left-to-right swipe."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Barbed Straight Sword",
+          "Damage": "80/0/0/0(Normal)",
+          "CriticalBonus": "100",
+          "Durability": "160",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "101/10/0/0D/D/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Broadsword",
+        "url": "http://darksouls.wikidot.com/broadsword",
+        "in_game_description": "The wide blade of this straight swordemphasizes slicing and has no thrust attack. The horizontal sweeping motion makes thissword effective against multiple enemies.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by a lunging right-to-left swing followed by a left-to-right swing.",
+          "Rolling attack (2-handed) is replaced by a left-to-right swipe."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Broadsword",
+          "Damage": "82/0/0/0(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "200",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "101/10/0/0C/C/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Broken Straight Sword",
+        "url": "http://darksouls.wikidot.com/broken-straight-sword",
+        "in_game_description": "Half of the blade of this straight sword isbroken off. Only the completely Hollowed would evenconsider using this as a weapon.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Broken Straight Sword",
+          "Damage": "40/0/0/0(Regular/Thrust)",
+          "CriticalBonus": "100",
+          "Durability": "200",
+          "Weight": "2.0",
+          "Stats NeededStat Bonuses": "81/8/0/0D/D/-/-",
+          "DamageReduction%": "20/5/15/15",
+          "Stability": "16"
+        }
+      },
+      {
+        "name": "Crystal Straight Sword",
+        "url": "http://darksouls.wikidot.com/crystal-straight-sword",
+        "in_game_description": "A fully crystallized straight sword.How such a weapon was createdis entirely unknown.The crystallization boosts its attack, butmakes the blade brittle. The sword cannot beused for long, as it cannot be repaired.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Crystal Straight Sword",
+          "Damage": "150/0/0/0(Regular/Thrust)",
+          "Critical": "100",
+          "Durability": "60",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/10/0/0C/C/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Dark Sword",
+        "url": "http://darksouls.wikidot.com/dark-sword",
+        "in_game_description": "",
+        "availability": [
+          "Strong attacks are replaced by a unique slashing motions not unlike theDarkwraith'sslash combo",
+          "Rolling two-handed attack is a thrust similar to athrusting sword's"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dark Sword",
+          "Damage": "82/0/0/0(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "200",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/16/0/0C/C/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Drake Sword",
+        "url": "http://darksouls.wikidot.com/drake-sword",
+        "in_game_description": "This sword, one of the rare dragon weapons,is formed by a drake's tail. Drakes areseen as undeveloped imitators of the dragons,but they are likely their distant kin.The sword is imbued with a mystical power,to be released when held with both hands.",
+        "availability": [
+          "Strong attack (1-handed) is replaced by a lunging right-to-left swing followed by a left-to-right swing.",
+          "Strong attack (2-handed) is replaced by a downward slam that releases a shockwave projectile. Costs 30 weapon durability per use.",
+          "Rolling attack (2-handed) is replaced by a left-to-right swipe."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Drake Sword",
+          "Damage": "200/0/0/0(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "360",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/10/0/0-/-/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Longsword",
+        "url": "http://darksouls.wikidot.com/longsword",
+        "in_game_description": "Widely-used standard straight sword, onlymatched in ubiquity by the shortsword. An accessible sword which inflicts consistentregular damage and high slash damage, makingit applicable to a variety of situations.",
+        "availability": [
+          "Warriorstarting weapon",
+          "Sold byAndre of Astorafor 1,000 souls",
+          "Drop fromUndead Soldier (sword)(2% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Longsword",
+          "Damage": "80/0/0/0(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "200",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "101/10/0/0C/C/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Shortsword",
+        "url": "http://darksouls.wikidot.com/shortsword",
+        "in_game_description": "This small straight sword is widely used,to an extent only matched by the longsword. An accessible sword which inflicts consistentregular damage and high slash damage, makingit applicable to a variety of situations.",
+        "availability": [
+          "Rolling two-handed attack is a thrust similar to athrusting sword's"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Shortsword",
+          "Damage": "78/0/0/0(Regular/Thrust)",
+          "Critical Bonus": "100",
+          "Durability": "200",
+          "Weight": "2.0",
+          "Stats NeededStat Bonuses": "81/10/0/0C/C/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Silver Knight Straight Sword",
+        "url": "http://darksouls.wikidot.com/silver-knight-straight-sword",
+        "in_game_description": "The silver knights of Anor Londo guard thecity using this beautifully slender weapon. Its chain attacks, in which the wielder takesgreat advancing steps and makes use of hisbodyweight, are deadly even in single hits.",
+        "availability": [
+          "One Handed R2 is a strong overhead slash followed by a near 360 horizontal slash",
+          "Two Handed R2 is a strong lunging diagonal slash followed by a second one from the opposite side.",
+          "Strong attacks drain more Poise than others, specifically 26\u00a01-handed and 36\u00a02-handed"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Silver Knight Straight Sword",
+          "Damage": "175/0/0/0(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "300",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/22/0/0E/C/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      },
+      {
+        "name": "Straight Sword Hilt",
+        "url": "http://darksouls.wikidot.com/straight-sword-hilt",
+        "in_game_description": "The hilt of this lost sword was founddiscarded in the Undead Asylum. Only slightly better then one's bare hands,and not recommended for extensive use.Be certain to find a replacement quickly.",
+        "availability": [
+          "Straight Sword Hilt +5",
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Straight Sword Hilt",
+          "Damage": "20/0/0/0(Regular/Thrust)",
+          "CriticalBonus": "100",
+          "Durability": "200",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "61/6/0/0E/E/-/-",
+          "DamageReduction%": "20/5/15/15",
+          "Stability": "10"
+        }
+      },
+      {
+        "name": "Sunlight Straight Sword",
+        "url": "http://darksouls.wikidot.com/sunlight-straight-sword",
+        "in_game_description": "This standard longsword, belonging to Solaireof Astora, is of high quality, is well-forged, and has been kept in good repair. Easy-to-use and dependable, but unlikely tolive up to its grandiose name.",
+        "availability": [
+          "Sunlight Straight Sword +10",
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Sunlight Straight Sword",
+          "Damage": "82/0/0/0(Normal)",
+          "CriticalBonus": "100",
+          "Durability": "240",
+          "Weight": "4.0",
+          "Stats NeededStat Bonuses": "121/12/0/0C/C/-/-",
+          "DamageReduction%": "50/10/35/35",
+          "Stability": "32"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Greatswords",
+    "weapons": [
+      {
+        "name": "Abyss Greatsword",
+        "url": "http://darksouls.wikidot.com/abyss-greatsword",
+        "in_game_description": "This greatsword belonged to Lord Gwyn's Knight Artorias,who fell to the abyss. Swallowed by the Dark with its master,this sword is tainted by the abyss,and now its strength reflects its wielder's humanity.",
+        "availability": [
+          "This weapon's moveset is the same as a greatsword's except for its R2 moves",
+          "One-handed R2 is a double circular slash (Only connects once but, can hit a second enemy further away).",
+          "Two-handed R2 is a somersault, followed by a vertical slam able to knock down enemies. GrantsHyperarmorandVulnerabilityfor the duration spent off the ground."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Abyss Greatsword",
+          "Damage": "160/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "9.0",
+          "Stats NeededStat Bonuses": "221/18/18/18C/C/-/-",
+          "DamageReduction%": "40/50/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Bastard Sword",
+        "url": "http://darksouls.wikidot.com/bastard-sword",
+        "in_game_description": "This standard greatsword is normally wieldedwith two hands due to its great weight. Usually swung in large arcs and effectiveagainst multiple foes. Far from ideal whenfighting in tight quarters.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Bastard Sword",
+          "Damage": "105/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "200",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/10/0/0C/C/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Black Knight Sword",
+        "url": "http://darksouls.wikidot.com/black-knight-sword",
+        "in_game_description": "Greatsword of the black knights who wanderLordran. Used to face chaos demons. The large motion that puts the weight of thebody into the attack reflects the great sizeof their adversaries long ago.",
+        "availability": [
+          "One-handed strong attack is replaced by a strong delayed thrust that knocks down if connects",
+          "Two-handed strong attack is replaced by a strong delayed upward slash that knocks down if connects"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Black Knight Sword",
+          "Damage": "220/0/0/0(Regular/Thrust)",
+          "Critical Bonus": "100",
+          "Durability": "300",
+          "Weight": "8.0",
+          "Stats NeededStat Bonuses": "201/18/0/0C/E/-/-",
+          "DamageReduction %": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Claymore",
+        "url": "http://darksouls.wikidot.com/claymore",
+        "in_game_description": "This larger type of greatsword is normallywielded with two hands due to its weight. This highly flexible greatsword can be usedto attack in swings or thrusts.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Claymore",
+          "Damage": "103/0/0/0(Regular/Thrust)",
+          "Durability": "200",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/10/0/0C/C/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Crystal Greatsword",
+        "url": "http://darksouls.wikidot.com/crystal-greatsword",
+        "in_game_description": "A fully crystallized straight sword.How such a weapon was createdis entirely unknown.The crystallization boosts its attack, butmakes the blade brittle. The sword cannot beused for long, as it cannot be repaired.",
+        "availability": [
+          "Standard greatsword move set, identical to aBastard Sword's."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Crystal Greatsword",
+          "Damage": "190/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "60",
+          "Weight": "8.0",
+          "Stats NeededStat Bonuses": "201/10/0/0C/C/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Flamberge",
+        "url": "http://darksouls.wikidot.com/flamberge",
+        "in_game_description": "This greatsword with an undulating bladeis the choice weapon of the slithering serpentmen of Sen's Fortress. This weapon is designed to flay the skin andcauses heavy bleeding.",
+        "availability": [
+          "Strong attacks (1-handed & 2-handed) are replaced by alternating right-to-left and left-to-right curving diagonal slashes (making up long travel paths for the blade)."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Flamberge",
+          "Damage": "100/0/0/0(Slash)",
+          "CriticalBonus": "100",
+          "Durability": "160",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/14/0/0D/C/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Great Lord Greatsword",
+        "url": "http://darksouls.wikidot.com/great-lord-greatsword",
+        "in_game_description": "Greatsword born from the soul of Gwyn,Lord of Cinder. As bearer of the ultimatesoul, Gwyn wielded the bolts of the sun,but before linking the fire, divided thatpower amongst his children, and set off withonly this great sword as his companion.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Great Lord Greatsword",
+          "Damage": "256/0/0/0(Slash)",
+          "Critical": "100",
+          "Durability": "400",
+          "Weight": "8.0",
+          "Stats NeededStat Bonuses": "20/10/0/0D/D/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Greatsword of Artorias",
+        "url": "http://darksouls.wikidot.com/greatsword-of-artorias",
+        "in_game_description": "\"Sword born from the soul of the great greywolf Sif, guardian of the grave of theAbysswalker Knight Artorias. Sir Artorias hunted the Darkwraiths, and hissword strikes harder against dark servants.\"",
+        "availability": [
+          "One-handed strong attack is replaced by a delayed thrust attack that has knockdown effect on hit",
+          "Two-handed strong attack is replaced by a delayed swinging attack that has knockdown effect on hit"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Greatsword of Artorias",
+          "Damage": "120/85/0/0Divine 140(Normal, Thrust)",
+          "Critical Bonus": "100",
+          "Durability": "400",
+          "Weight": "10.0",
+          "Stats NeededStat Bonuses": "24/18/20/20C/C/B/B",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Greatsword of Artorias (Cursed)",
+        "url": "http://darksouls.wikidot.com/greatsword-of-artorias-cursed",
+        "in_game_description": "\"Sword born from the soul of the great greywolf Sif, guardian of the grave of theAbysswalker Knight Artorias.The sword can damage ghosts, as it wascursed when Artorias joined a covenantwith the creatures of the Abyss.\"",
+        "availability": [
+          "Regular Greatsword move, except for its strong attacks",
+          "One-handed strong attack is replaced by a delayed thrust attack that has knockdown effect on hit",
+          "Two-handed strong attack is replaced by a delayed swinging attack that has knockdown effect on hit"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Greatsword of Artorias",
+          "Damage": "178/0/0/0(Normal, Thrust)",
+          "Critical Bonus": "100",
+          "Durability": "400",
+          "Weight": "10.0",
+          "Stats NeededStat Bonuses": "24/18/18/18C/C/C/C",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Man Serpent Greatsword",
+        "url": "http://darksouls.wikidot.com/man-serpent-greatsword",
+        "in_game_description": "",
+        "availability": [
+          "Standard greatsword move set, identical to aBastard Sword's."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Man-serpent Greatsword",
+          "Damage": "110/0/0/0(Regular)",
+          "CriticalBonus": "100",
+          "Durability": "300",
+          "Weight": "10",
+          "Stats NeededStat Bonuses": "241/0/0/0B/-/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Moonlight Greatsword",
+        "url": "http://darksouls.wikidot.com/moonlight-greatsword",
+        "in_game_description": "",
+        "availability": [
+          "One-handed strong attack is replaced with a charged vertical slash that releases an energy wave. (Consumes 20 durability points)",
+          "Two-handed strong attack is replaced with a charged horizontal slash that releases an energy wave. The energy wave explodes on impact, dealing splash damage. (Consumes 40 durability points)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Moonlight Greatsword",
+          "Damage": "0/132/0/0(Normal)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/10/28/0-/-/A/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Obsidian Greatsword",
+        "url": "http://darksouls.wikidot.com/obsidian-greatsword",
+        "in_game_description": "This greataxe1, one of the rare dragon weapons,is formed by the tail of the one-eyed black dragon Kalameet,the last of the ancient dragons.The mystical power of its obsidian bladewill be released when held with both hands.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Obsidian Greatsword",
+          "Damage": "320/0/0/0(Regular)",
+          "Critical Bonus": "100",
+          "Durability": "350",
+          "Weight": "8.0",
+          "Stats NeededStat Bonuses": "202/16/0/0-/-/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      },
+      {
+        "name": "Stone Greatsword",
+        "url": "http://darksouls.wikidot.com/stone-greatsword",
+        "in_game_description": "The Stone Knights who guard the DarkrootGarden wield this moss-covered greatsword. The same magic which created the StoneKnights is imbued in the sword. Unleash thispower by wielding the sword with two hands.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Stone Greatsword",
+          "Damage": "148/100/0/0(Regular)",
+          "CriticalBonus": "100",
+          "Durability": "800",
+          "Weight": "18.0",
+          "Stats NeededStat Bonuses": "401/10/0/0C/C/E/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "38"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Ultra Greatswords",
+    "weapons": [
+      {
+        "name": "Black Knight Greatsword",
+        "url": "http://darksouls.wikidot.com/black-knight-greatsword",
+        "in_game_description": "Greatsword of the black knights who wanderLordran. Used to face chaos demons. The large motion that puts the weight of thebody into the attack reflects the great sizeof their adversaries long ago.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Black Knight Greatsword",
+          "Damage": "220/0/0/0(Regular/Thrust)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "14",
+          "Stats NeededStat Bonuses": "321/18/0/0B/E/-/-",
+          "DamageReduction%": "70/10/50/50",
+          "Stability": "44"
+        }
+      },
+      {
+        "name": "Demon Great Machete",
+        "url": "http://darksouls.wikidot.com/demon-great-machete",
+        "in_game_description": "The lesser Capra demons use these greatswordsin pairs. The blade is cast iron and hooked. The sword is imbued with no particular magic,but for those who have the strength, itsgreat weight will smash foes mercilessly.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Demon Great Machete",
+          "Damage": "133/0/0/0(Regular)",
+          "Critical Bonus": "100",
+          "Durability": "600",
+          "Weight": "18",
+          "Stats NeededStat Bonuses": "401/0/0/0B/-/-/-",
+          "DamageReduction%": "70/10/50/50",
+          "Stability": "44"
+        }
+      },
+      {
+        "name": "Dragon Greatsword",
+        "url": "http://darksouls.wikidot.com/dragon-greatsword",
+        "in_game_description": "This sword, one of the rare dragon weapons,came from the tail of the stone dragon ofAsh Lake, descendant of the ancient dragons. Its great mystical power will be unleashedwhen wielded with two hands.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dragon Greatsword",
+          "Damage": "390/0/0/0(Normal)",
+          "Critical": "100",
+          "Durability": "400",
+          "Weight": "24",
+          "Stats NeededStat Bonuses": "502/10/0/0-/-/-/-",
+          "DamageReduction%": "70/10/50/50",
+          "Stability": "44"
+        }
+      },
+      {
+        "name": "Greatsword",
+        "url": "http://darksouls.wikidot.com/greatsword",
+        "in_game_description": "Weapon type: Ultra GreatswordAttack type: Regular/Thrust One of the gigantic straight greatswords. Very few have what is takes to wield thisincredibly heavy, damage-dealing monster.A favorite of the Knights Berenike, known fortheir heavy armor, and Black Iron Tarkus.",
+        "availability": [
+          "One-handed and two-handed strong attack is replaced by a thrust attack."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Greatsword",
+          "Damage": "130/0/0/0(Regular/Thrust)",
+          "Durability": "200",
+          "Weight": "12.0",
+          "Stats NeededStat Bonuses": "281/10/0/0C/D/-/-",
+          "DamageReduction%": "70/10/50/50",
+          "Stability": "44"
+        }
+      },
+      {
+        "name": "Zweihander",
+        "url": "http://darksouls.wikidot.com/zweihander",
+        "in_game_description": "One of the gigantic straight greatswords. As the name suggests, the Zweihander is heldwith two hands, buts its wielder must still beinhumanly strong. It is this great weightthat sends foes flying when hit solidly.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Zweihander",
+          "Damage": "130/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "200",
+          "Weight": "10.0",
+          "Stats NeededStat Bonuses": "241/10/0/0C/D/-/-",
+          "DamageReduction%": "70/10/50/50",
+          "Stability": "44"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Katanas",
+    "weapons": [
+      {
+        "name": "Chaos Blade",
+        "url": "http://darksouls.wikidot.com/chaos-blade",
+        "in_game_description": "A curved sword born from the soul ofQuelaag, daughter of the Witch of Izalith,who was transformed into a chaos demon.This blade inherits only the chaotic natureof Quelaag, and has a unique speckled design.Blade wielder erodes along with opponents.",
+        "availability": [
+          "One-handed strong attack is replaced by a delayed left-to-right horizontal slash.",
+          "Two-handed strong attack is a delayed vertical chop. The blade being held back then released by the left hand provides leverage to create a very forceful chop that can knock down opponents. Also consumes a lot of stamina."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Chaos Blade",
+          "Damage": "144/0/0/0Bleed 300(Normal)",
+          "Critical": "100",
+          "Durability": "120",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/14/0/0-/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Iaito",
+        "url": "http://darksouls.wikidot.com/iaito-sword",
+        "in_game_description": "",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Iaito Sword",
+          "Damage": "88/0/0/0(Slash)",
+          "CriticalBonus": "100",
+          "Durability": "80",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/20/0/0-/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Uchigatana",
+        "url": "http://darksouls.wikidot.com/uchigatana",
+        "in_game_description": "Katana forged in an Eastern land.Known for its brisk slashing motions. The Uchigatana cuts beautifully and causesbleeding, but its blade is easily nicked.",
+        "availability": [
+          "Titanite",
+          "Large Ember(+6 and up)",
+          "Very Large Ember(+11 and up)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Uchigatana",
+          "Damage": "90/0/0/0(Slash/Thrust)",
+          "Critical": "100",
+          "Durability": "80",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/14/0/0-/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Washing Pole",
+        "url": "http://darksouls.wikidot.com/washing-pole",
+        "in_game_description": "Katana forged in an Eastern land.Very unusual specimen with a long blade. The blade is extremely long,but as a result, quite easily broken.",
+        "availability": [
+          "Washing Pole +10",
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Washing Pole",
+          "Damage": "90/0/0/0(Slash/Thrust)",
+          "Durability": "60",
+          "Weight": "8.0",
+          "Stats NeededStat Bonuses": "201/16/0/0D/D/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Curved Swords",
+    "weapons": [
+      {
+        "name": "Falchion",
+        "url": "http://darksouls.wikidot.com/falchion",
+        "in_game_description": "Small curved sword. Each hit inflicts littledamage, but fluid chain attacks are deadly. The falchion's sharp slashing attacks areeffective against cloth and flesh, but notagainst metal armor or tough scales.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Falchion",
+          "Damage": "82/0/0/0(Slash)",
+          "CriticalBonus": "100",
+          "Durability": "160",
+          "Weight": "2.5",
+          "Stats NeededStat Bonuses": "91/13/0/0E/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Gold Tracer",
+        "url": "http://darksouls.wikidot.com/gold-tracer",
+        "in_game_description": "Curved sword used by theLord's Blade Ciaran, of Gwyn's Four Knights. Ciaran brandishes her swordin a mesmerizing dance, etching thedarkness with dire streaks of gold.",
+        "availability": [
+          "RequiresTwinkling Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Gold Tracer",
+          "Damage": "130/0/0/0(Slash)",
+          "Critical Bonus": "100",
+          "Durability": "240",
+          "Weight": "2.0",
+          "Stats NeededStat Bonuses": "91/25/0/0E/A/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Jagged Ghost Blade",
+        "url": "http://darksouls.wikidot.com/jagged-ghost-blade",
+        "in_game_description": "Jagged blade wielded by New Londo ghosts.Violent thrust attack. One of the cursed weapons.Inflicts damage to ghosts.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Jagged Ghost Blade",
+          "Damage": "155/0/0/0Bleed 300(Slash/Thrust)",
+          "Durability": "100",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "71/0/0/0E/-/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Painting Guardian Sword",
+        "url": "http://darksouls.wikidot.com/painting-guardian-sword",
+        "in_game_description": "Curved sword of Anor Londo painting guards.Unique shape with flat tip.The guardians, who strike down those whodare threaten the painting, attack in acontinuous, circular dancing motion,a technique passed down through generations.",
+        "availability": [
+          "1-handed R2 attacks are replaced by a horizontal slash to vertical slash combo, followed by a triple slash combo",
+          "2-handed R2 attacks are replaced by a double vertical slash, followed by a slash-thrust-slash combo"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Painting Guardian Sword",
+          "Damage": "76/0/0/0(Slash)",
+          "CriticalBonus": "100",
+          "Durability": "100",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "71/20/0/0E/A/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Quelaag's Fury Sword",
+        "url": "http://darksouls.wikidot.com/quelaag-s-fury-sword",
+        "in_game_description": "A curved sword born from the soul ofQuelaag, daughter of the Witch of Izalith,who was transformed into a chaos demon.Like Quelaag's body, the sword featuresshells, spikes, and a coating of chaos fire.Power affected by wielder's humanity.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Quelaag's Furysword",
+          "Damage": "60/0/170/0(Slash)",
+          "Durability": "600",
+          "Weight": "3.5",
+          "Stats NeededStat Bonuses": "11/13/0/0E/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Scimitar",
+        "url": "http://darksouls.wikidot.com/scimitar",
+        "in_game_description": "Small curved sword. Each hit inflicts littledamage, but fluid chain attacks are deadly. The scimitar's sharp slashing attacks areeffective against cloth and flesh, but notagainst metal armor or tough scales.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Scimitar",
+          "Damage": "80/0/0/0(Slash)",
+          "Durability": "160",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "71/13/0/0E/B/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Shotel",
+        "url": "http://darksouls.wikidot.com/shotel",
+        "in_game_description": "",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Shotel",
+          "Damage": "82/0/0/0(Slash)",
+          "Durability": "120",
+          "Weight": "2.5",
+          "Stats NeededStat Bonuses": "91/14/0/0E/C/-/-",
+          "DamageReduction%": "45/10/30/30",
+          "Stability": "30"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Curved Greatswords",
+    "weapons": [
+      {
+        "name": "Gravelord Sword",
+        "url": "http://darksouls.wikidot.com/gravelord-sword",
+        "in_game_description": "Sword wielded only by servants ofGravelord Nito, the first of the dead.Crafted from the bones of the fallen. The miasma of death exudes from the sword,a veritable toxin to any living being.",
+        "availability": [
+          "Make sure equip burden is under 25% to be able to move fast",
+          "Run through the cemetery to the Catacombs",
+          "Run past all of the enemies and hit the switch by the first bonfire (DO NOT rest here); run back up and continue to the area with the first bridge",
+          "When going up the bridge, before going into the next cavern area, stand to the far right of the door, then look back and down: see the area below. Simply roll, fall down and land near the area before the Titanite Demon and the interactive coffin. To do this, be at full health and Make sure to roll when landing to avoid any enemies aggroed.",
+          "Run straight for the Titanite Demon, keepingshield up. Bypass him and grab the Eye of Death x3 behind him, then quickly run back to the open coffin. The Titanite Demon will take the majority of the time slowly crawling around, and will likely not attack. If he does attack, he can deal damage to and kill the user lying in the coffin.",
+          "Once the cutscene activates, the player will be transported to Nito's Lair. Simply join the covenant, then Darksign/Homeward Bone back."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Gravelord Sword",
+          "Damage": "265/0/0/0Toxin 300(Slashing)",
+          "Durability": "600",
+          "Weight": "10",
+          "Stats NeededStat Bonuses": "241/13/0/0E/E/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "36"
+        }
+      },
+      {
+        "name": "Murakumo",
+        "url": "http://darksouls.wikidot.com/murakumo",
+        "in_game_description": "Giant curved sword forged using specialmethods in an Eastern land.This unparalleled weapon cuts like a Katanabut is heavier than a Nata machete.Requires extreme strength, dexterity,and stamina to wield.",
+        "availability": [
+          "Titanite",
+          "Very Large Ember (+11 and up)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Murakumo",
+          "Damage": "113/0/0/0(Slash)",
+          "Critical Bonus": "100",
+          "Durability": "180",
+          "Weight": "12.0",
+          "Stats NeededStat Bonuses": "281/13/0/0E/B/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "36"
+        }
+      },
+      {
+        "name": "Server",
+        "url": "http://darksouls.wikidot.com/server",
+        "in_game_description": "A curved greatsword used in amysterious ancient rite. Imbued with a frightful occult energywhich restores HP with each hit.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Server",
+          "Damage": "107/0/0/0(Slash)",
+          "Critical": "100",
+          "Durability": "140",
+          "Weight": "10",
+          "Stats NeededStat Bonuses": "241/13/0/0E/C/-/-",
+          "DamageReduction%": "60/10/40/40",
+          "Stability": "36"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Spears",
+    "weapons": [
+      {
+        "name": "Channeler's Trident",
+        "url": "http://darksouls.wikidot.com/channeler-s-trident",
+        "in_game_description": "Trident of the Six-eyed Channelers,sorcerers who serve Seath the Scalelessin collecting human specimens.Thrusted in circular motions in a uniquemartial arts dance that stirs nearby alliesinto a bloodthirsty frenzy.",
+        "availability": [
+          "1-handed strong attack is replaced by a drilling thrust that hits three times (one normal hit plus two more from the rotating head).",
+          "2-handed strong attack is replaced by an area of effect dance that increases allies' attack power for a duration. This move consumes 80 durability."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Channeler's Trident",
+          "Damage": "70/115/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "240",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "16/16/24/0E/C/B/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Demon's Spear",
+        "url": "http://darksouls.wikidot.com/demon-s-spear",
+        "in_game_description": "Carved from the bones of fellow demons.Wielded by the slim lesser Batwing demons.The weapon of these chaos demons wanderingAnor Londo are different from those of otherchaos demons, and are imbued with lightning.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Demon's Spear",
+          "Damage": "100/0/0/120(Thrust)",
+          "Critical": "100",
+          "Durability": "400",
+          "Weight": "4.0",
+          "Stats NeededStat Bonuses": "121/10/0/0C/C/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Dragonslayer Spear",
+        "url": "http://darksouls.wikidot.com/dragonslayer-spear",
+        "in_game_description": "Cross spear born from theSoul of Ornstein, aDragonslayer guarding Anor Londo cathedral.Inflicts lightning damage; effective againstdragons. Two-handed thrust relies on crossand buries spear deep within a dragon's hide,and sends human foes flying.",
+        "availability": [
+          "One-handed strong attack is a long range lightning bolt. It iscalculatedlike any attack using the weapon's Physical and Lightning AR and the attack specific Motion Values (100 Physical, 110 Lightning). It has a range of approximately 28 ingame units, suffers from damage drop off at long ranges and does not benefit from theHawk Ring. Degrades 20 Durability.",
+          "Two-handed strong attack is a slow strike forward. Pressing R2 a second time will result in a close-range, delayed upward thrust that can knock opponents airborne or back."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dragonslayer Spear",
+          "Damage": "95/0/0/65(Thrust)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "10.0",
+          "Stats NeededStat Bonuses": "242/24/0/0C/B/-/B",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Four-Pronged Plow",
+        "url": "http://darksouls.wikidot.com/four-pronged-plow",
+        "in_game_description": "Four-pronged Plow wielded by the woodenscarecrows, serfs of the forest Sanctuary. The scarecrow serfs would not normally usethese four pronged plows as weapons, buttheir sharpness makes them very deadly.",
+        "availability": [
+          "Two-handed strong attack is replaced by a delayed strong thrust which imitates theScarecrow's attack where they rush forward, then thrust while falling facedown at the same time."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Four-pronged Plow",
+          "Damage": "75/0/0/0(Thrust)",
+          "Critical Bonus": "100",
+          "Durability": "300",
+          "Weight": "5.5",
+          "Stats NeededStat Bonuses": "151/12/0/0D/C/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Moonlight Butterfly Horn",
+        "url": "http://darksouls.wikidot.com/moonlight-butterfly-horn",
+        "in_game_description": "Weapon born from the mystical creature ofDarkroot Garden, the Moonlight Butterfly. The horns of the butterfly, a being createdby Seath, are imbued with a pure magic power.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Moonlight Butterfly Horn",
+          "Damage": "0/120/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "160",
+          "Weight": "4",
+          "Stats NeededStat Bonuses": "122/0/14/0-/-/B/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Partizan",
+        "url": "http://darksouls.wikidot.com/partizan",
+        "in_game_description": "Spear with a blade attached to a broad point.Boasts long reach, and can slice. The wide range of this spear makes itadaptable to many situations. Its strengthlies in its length, but in cramped quarters,this backfires, and slices ricochet off walls.",
+        "availability": [
+          "1-handed strong attack is replaced with a 270\u00b0 forward sweep",
+          "2-handed strong attack is replaced with a 270\u00b0 forward sweep"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Partizan",
+          "Damage": "80/0/0/0(Regular / Thrust)",
+          "Critical": "100",
+          "Durability": "160",
+          "Weight": "4.5",
+          "Stats NeededStat Bonuses": "131/12/0/0D/C/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Pike",
+        "url": "http://darksouls.wikidot.com/pike",
+        "in_game_description": "Long spear with a very long red hilt.Traditionally used by groups of soldiers.Specially designed for long distance thrusting.Has the longest range of the non-projectileweapons, but its very length makes itsomewhat difficult to handle.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Pike",
+          "Damage": "86/0/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "180",
+          "Weight": "10.0",
+          "Stats NeededStat Bonuses": "241/10/0/0D/C/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Silver Knight Spear",
+        "url": "http://darksouls.wikidot.com/silver-knight-spear",
+        "in_game_description": "The silver knights of Anor Londo guard thecity using this beautifully slender weapon. The spear can be wielded by both hands in afocused thrust that uses one's body weight,or swung in a large sweeping motion.",
+        "availability": [
+          "One handed strong attack replaced by a delayed, widely-sweeping horizontal swing (as used by the spear-wielding Silver Knights). Second strong attack winds up and slams entire length of spear to the ground directly in front of wielder.",
+          "Two handed strong attack replaced by a distinct delayed strong thrust."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Silver Knight Spear",
+          "Damage": "163/0/0/0(Regular/Thrust)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/22/0/0E/C/-/-",
+          "DamageReduction%": "40/10/30/30"
+        }
+      },
+      {
+        "name": "Spear",
+        "url": "http://darksouls.wikidot.com/spear",
+        "in_game_description": "Standard spear used commonly by soldiers.Long reach, and can be used with shield up.Effective against hard exteriors, and can hitfor high damage at the right moment of anenemy's swing. But the hit radius is small,and it is easily blocked by shields.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Spear",
+          "Damage": "80/0/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "180",
+          "Weight": "3.5",
+          "Stats NeededStat Bonuses": "111/10/0/0D/C/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Winged Spear",
+        "url": "http://darksouls.wikidot.com/winged-spear",
+        "in_game_description": "A long-hilted spear with a barbed point.Long reach, and can be used with shield up.Effective against hard exteriors, and hitsfor high damage the right moment of anenemy's swing but the hit radius is small,and it is easily blocked by shields.",
+        "availability": [
+          "Titanite",
+          "Large Ember(beyond +5)",
+          "Very Large Ember(beyond +10)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Winged Spear",
+          "Damage": "86/0/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "140",
+          "Weight": "4.5",
+          "Stats NeededStat Bonuses": "131/15/0/0E/C/-/-",
+          "DamageReduction %": "40/10/30/30",
+          "Stability": "26"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Halberds",
+    "weapons": [
+      {
+        "name": "Black Knight Halberd",
+        "url": "http://darksouls.wikidot.com/black-knight-halberd",
+        "in_game_description": "Halberd of the black knights who wanderLordran. Used to face chaos demons. The large motion that puts the weight of thebody into the attack reflects the great sizeof their adversaries long ago.",
+        "availability": [
+          "One-handed strong attack is replaced by a a circle-and-a-half swing.",
+          "Two-handed strong attack is replaced by a downward swing with dashing start.",
+          "Like most otherhalberds, this weapon's R1s deal thrust damage, and therefore receivecounter hitbonuses."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Black Knight Halberd",
+          "Damage": "245/0/0/0(Slash)",
+          "Durability": "300",
+          "Weight": "14",
+          "Stats NeededStat Bonuses": "321/18/0/0D/E/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Gargoyle's Halberd",
+        "url": "http://darksouls.wikidot.com/gargoyle-s-halberd",
+        "in_game_description": "Halberd of the gargoyle guarding theBell of Awakening in the Undead Church. Perfectly standard bronze halberdwithout any special power.",
+        "availability": [
+          "Like most otherhalberds, this weapon's R1s deal thrust damage, and therefore receivecounter hitbonuses."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Gargoyle's Halberd",
+          "Damage": "115/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "200",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/12/0/0D/D/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Giant's Halberd",
+        "url": "http://darksouls.wikidot.com/giant-s-halberd",
+        "in_game_description": "Large halberd made of old brass, used bythe giant sentinels of Anor Londo. Brass contains traces of lightning,but as the halberd is designed for the giantsentinels, its weight is unbearable.",
+        "availability": [
+          "Like most otherhalberds, this weapon's R1s deal thrust damage, as well as its R2s, and therefore receivecounter hitbonuses."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Giant's Halberd",
+          "Damage": "140/0/0/135(Normal/Thrust)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "16",
+          "Stats NeededStat Bonuses": "36/12/0/0D/D/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Great Scythe",
+        "url": "http://darksouls.wikidot.com/great-scythe",
+        "in_game_description": "Weapon with a long curved blade. Convertedfrom a wheat-harvesting tool. The magnificent sharp curved bladeinstills fear in opponents. Perhaps it istheir survival instinct at work.",
+        "availability": [
+          "From thefirst rotatingbridge -Flip the first rotating bridgeJump right at the end of the bridgeTurn left through the nearest doorway and bear left, before dropping down on the right of the ledgeWith your back to the bridge, drop down to the right once more to collect the Scythe",
+          "Flip the first rotating bridge",
+          "Jump right at the end of the bridge",
+          "Turn left through the nearest doorway and bear left, before dropping down on the right of the ledge",
+          "With your back to the bridge, drop down to the right once more to collect the Scythe"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Great Scythe",
+          "Damage": "100/0/0/0(Slash)",
+          "Critical": "100",
+          "Durability": "130",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/14/0/0E/B/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "22"
+        }
+      },
+      {
+        "name": "Halberd",
+        "url": "http://darksouls.wikidot.com/halberd",
+        "in_game_description": "Long-hilted weapon mixing spear and axe isdifficult to handle, requiring both strengthand dexterity. The Halberd has two elementaryattacks: spear-like thrusting and largesweeping swings. However, one false swingand the wielder is left wide open.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Halberd",
+          "Damage": "110/0/0/0(Regular/Thrust)",
+          "Critical": "100",
+          "Durability": "200",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/12/0/0D/D/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Lifehunt Scythe",
+        "url": "http://darksouls.wikidot.com/lifehunt-scythe",
+        "in_game_description": "Scythe born from the soul of Priscilla, thestark white crossbreed trapped inside thePainted World of Ariamis.Even the Gods feared Priscilla's lifehuntability, and in the hands of a mortal, itspower will turn upon its wielder.",
+        "availability": [
+          "Soul of Priscilla",
+          "Any +10Halberd1orWhip",
+          "5,000 souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Lifehunt Scythe",
+          "Damage": "180/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "100",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "16/14/0/0E/B/-/-"
+        }
+      },
+      {
+        "name": "Lucerne",
+        "url": "http://darksouls.wikidot.com/lucerne",
+        "in_game_description": "Halberd with a large, hard beak-likeprotrusion. Inflicts thrust damage.Instead of thrusting like a spear, thewielder of the Lucerne aims to clubthe head with its hard beak.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Lucerne",
+          "Damage": "110/0/0/0(Thrust)",
+          "Critical": "100",
+          "Durability": "200",
+          "Weight": "5.5",
+          "Stats NeededStat Bonuses": "151/12/0/0D/D/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Scythe",
+        "url": "http://darksouls.wikidot.com/scythe",
+        "in_game_description": "Halberd with a large blade.Scythe adjusted for battle. Designed especially for slicing. However,one false swing leaves one wide open.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Scythe",
+          "Damage": "110/0/0/0(Slash)",
+          "Critical": "100",
+          "Durability": "150",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "141/12/0/0E/C/-/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      },
+      {
+        "name": "Titanite Catch Pole",
+        "url": "http://darksouls.wikidot.com/titanite-catch-pole",
+        "in_game_description": "Weapon of the titanite demon, a facelessstone monster born from titanite slab.One of the enchanted weapons, perhaps fromresidual power of the titanite slab.Known for its leaping attack which comessmashing down on foes from above.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Titanite Catch Pole",
+          "Damage": "125/145/0/0(Regular)",
+          "Critical Bonus": "100",
+          "Durability": "600",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "16/14/0/0D/D/D/-",
+          "DamageReduction%": "40/10/30/30",
+          "Stability": "26"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Bows",
+    "weapons": [
+      {
+        "name": "Black Bow of Pharis",
+        "url": "http://darksouls.wikidot.com/black-bow-of-pharis",
+        "in_game_description": "The preferred black bow of the heroicarcher Pharis. Has a longer range than standard bows,but is more difficult to use. Without properabilities, results will be underwhelming.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Black Bow of Pharis",
+          "Damage": "34/0/0/0",
+          "Range": "65",
+          "Durability": "100",
+          "Weight": "1",
+          "Stats NeededStat Bonuses": "91/18/0/0E/S/-/-"
+        }
+      },
+      {
+        "name": "Composite Bow",
+        "url": "http://darksouls.wikidot.com/composite-bow",
+        "in_game_description": "Composite bow emphasizing power.Requires more strength than standard bows.Fires Faster than the Longbow. However, its range is shorter, making itunfit for sniping",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Composite Bow",
+          "Damage": "55/0/0/0",
+          "Critical Bonus": "100",
+          "Range": "38",
+          "Durability": "100",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "11/12/0/01C/C/-/-"
+        }
+      },
+      {
+        "name": "Darkmoon Bow",
+        "url": "http://darksouls.wikidot.com/darkmoon-bow",
+        "in_game_description": "Bow born from the soul of the Dark SunGwyndolin, Darkmoon deity who watches overthe abandoned city of Gods, Anor Londo. This golden bow is imbued with powerful magicand is most impressive withMoonlight Arrows.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Darkmoon Bow",
+          "Damage": "85/85/0/0",
+          "Critical": "100",
+          "Range": "50",
+          "Durability": "400",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "71/16/0/16E/D/-/D"
+        }
+      },
+      {
+        "name": "Long Bow",
+        "url": "http://darksouls.wikidot.com/long-bow",
+        "in_game_description": "Large bow. Projectile weapon for experiencedhunters. Equip arrows to use. Hold bow and press L1 to aim.Aim for heads of humanoid foes.Press L2/R2 to change type of arrows.Press D-pad forward or back to change zoom.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Long Bow",
+          "Damage": "36/0/0/0",
+          "Critical Bonus": "100",
+          "Range": "50",
+          "Durability": "100",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "91/14/0/0D/A/-/-"
+        }
+      },
+      {
+        "name": "Short Bow",
+        "url": "http://darksouls.wikidot.com/short-bow",
+        "in_game_description": "Small bow. Standard projectile weapon.Equip arrows to use. Hold bow and press L1 to aim.Aim for heads of humanoid foes.Press L2/R2 to change type of arrows.",
+        "availability": [
+          "TitaniteShard/Large Shard/Chunk/Slab"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Short Bow",
+          "Damage": "31/0/0/0",
+          "Range": "50",
+          "Durability": "100",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "101/12/0/0D/A/-/-"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Crossbows",
+    "weapons": [
+      {
+        "name": "Avelyn",
+        "url": "http://darksouls.wikidot.com/avelyn",
+        "in_game_description": "Repeating crossbow cherished by the weaponcraftsman Eidas. Its elaborate design makesit closer to a work of art than a weapon.Intricate mechanism makes heavy damagepossible through triple-shot firing of bolts,but in fact each bolt inflicts less damage.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Avelyn",
+          "Damage": "37/0/0/0(Normal)",
+          "Range": "50",
+          "Durability": "150",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "161/14/0/0-/-/-/-"
+        }
+      },
+      {
+        "name": "Heavy Crossbow",
+        "url": "http://darksouls.wikidot.com/heavy-crossbow",
+        "in_game_description": "Powerful large crossbow.While bows require both hands, a crossbow isheld in one, but arming each bolt takes time. Equip bolts to use.Press L2/R2 to change type of bolt.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Heavy Crossbow",
+          "Damage": "55/0/0/0",
+          "Range": "50",
+          "Durability": "150",
+          "Weight": "5",
+          "Stats NeededStat Bonuses": "141/8/0/0-/-/-/-"
+        }
+      },
+      {
+        "name": "Light Crossbow",
+        "url": "http://darksouls.wikidot.com/light-crossbow",
+        "in_game_description": "",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Light Crossbow",
+          "Damage": "50/0/0/0",
+          "Range": "50",
+          "Durability": "150",
+          "Weight": "3",
+          "Stats NeededStat Bonuses": "101/8/0/0-/-/-/-"
+        }
+      },
+      {
+        "name": "Sniper Crossbow",
+        "url": "http://darksouls.wikidot.com/sniper-crossbow",
+        "in_game_description": "Large crossbow with long distance used byCarim snipers. Often used with sniper bolts. But while crossbows are normally easy touse, the Sniper Crossbow requires dexterity.",
+        "availability": [
+          "Titanite"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Sniper Crossbow",
+          "Damage": "52/0/0/0",
+          "Critical": "100",
+          "Range": "70",
+          "Durability": "150",
+          "Weight": "8.0",
+          "Stats NeededStat Bonuses": "20/16/0/0-/-/-/-"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Greatbows",
+    "weapons": [
+      {
+        "name": "Dragonslayer Greatbow",
+        "url": "http://darksouls.wikidot.com/dragonslayer-greatbow",
+        "in_game_description": "Bow of the Dragonslayers, led by HawkeyeGough, one of Gwyn's Four Knights. This bow's unusual size requires that it beanchored to the ground when fired.Only uses specialized great arrows.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dragonslayer Greatbow",
+          "Damage": "90/0/0/0",
+          "Range": "50",
+          "Durability": "100",
+          "Weight": "10.0",
+          "Stats NeededStat Bonuses": "201/20/0/0C/C/-/-"
+        }
+      },
+      {
+        "name": "Gough's Greatbow",
+        "url": "http://darksouls.wikidot.com/gough-s-greatbow",
+        "in_game_description": "Greatbow used by Hawkeye Gough, of LordGwyn's Four Knights, for dragon slaying. This bow is larger than those used bythe famed Dragonslayers. Only their leader,Gough, had the strength to handle it.",
+        "availability": [
+          "W is Physical Damage",
+          "X is Magical Damage",
+          "Y is Fire Damage",
+          "Z is Lightning Damage"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Gough's Greatbow",
+          "Damage": "85/0/0/0",
+          "Range": "55",
+          "Durability": "100",
+          "Weight": "13",
+          "Stats NeededStat Bonuses": "271/20/0/0B/C/-/-"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Whips",
+    "weapons": [
+      {
+        "name": "Guardian Tail",
+        "url": "http://darksouls.wikidot.com/guardian-tail",
+        "in_game_description": "Sliced tail of the Sanctuary Guardian. This flexible, spiked and highly poisonous tail would make a rather obnoxious weapon.",
+        "availability": [
+          "Tail cut drop bySanctuary GuardianinSanctuary Garden",
+          "Tail cut drop byLesser Sanctuary GuardianinSanctuary Garden"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Guardian Tail",
+          "Damage": "84/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "250",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "15/10/0/0-/C/-/-",
+          "DamageReduction%": "30/10/20/20",
+          "Stability": "16"
+        }
+      },
+      {
+        "name": "Notched Whip",
+        "url": "http://darksouls.wikidot.com/notched-whip",
+        "in_game_description": "Whip with sharp spikes. Only slightly effective against armor andtough scales, but quite formidable againstenemies with exposed skin.Also causes heavy bleeding.",
+        "availability": [
+          "Cannot be parried",
+          "Cannot be used for critical attacks (backstab, riposte, or plunging attacks)",
+          "When buffed with buff that has particle effects, the buff does not show until you attack, this includes all resins,Sunlight Blade,Darkmoon BladeandCrystal Magic Weapon(Only the crystallization effect; the weapon's still colored blue)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Notched Whip",
+          "Damage": "76/0/0/0(Regular)",
+          "Critical": "100",
+          "Durability": "200",
+          "Weight": "2.0",
+          "Stats NeededStat Bonuses": "81/16/0/0-/B/-/-",
+          "DamageReduction%": "30/10/20/20",
+          "Stability": "16"
+        }
+      },
+      {
+        "name": "Whip",
+        "url": "http://darksouls.wikidot.com/whip",
+        "in_game_description": "Leather Whip.Not intended for battle. Virtually ineffective against armor and toughscale, but quite formidable against enemieswith exposed skin.",
+        "availability": [
+          "Cannot be parried",
+          "Cannot be used for critical attacks (backstab, riposte, or plunging attacks)",
+          "When buffed with buff that has particle effects, the buff does not show until you attack, this includes all resins,Sunlight Blade,Darkmoon BladeandCrystal Magic Weapon(Only the crystallization effect; the weapon's still colored blue)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Whip",
+          "Damage": "80/0/0/0(Normal)",
+          "Critical Bonus": "100",
+          "Durability": "200",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "71/14/0/0-/B/-/-",
+          "DamageReduction%": "30/10/20/20",
+          "Stability": "16"
+        }
+      }
+    ]
+  }
+]
