@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Binoculars",
+    "url": "http://darksouls.wikidot.com/binoculars",
+    "in_game_description": "Binoculars made of brass.Use to peer at distant scenery. This advanced device was built by afamous craftsman of Astora. Its utility issingular, but its applications many. The value of these specs depends greatly onthe imagination of their owner.",
+    "availability": [
+      "Can be found at the far end of the Graveyard in theFirelink Shrine.",
+      "StartingGift"
+    ]
+  },
+  {
+    "name": "Black Firebomb",
+    "url": "http://darksouls.wikidot.com/black-firebomb",
+    "in_game_description": "Black bisque urn filled with black powder.Explodes, inflicting fire damage. Powerful ranged weapon, especiallyin situations calling for fire damage.A very precious item at low levels. Black Firebombs are especially destructive.",
+    "availability": [
+      "Select Black Firebomb as a startingGiftin a New Game (10 of them)",
+      "Sold byCrestfallen MerchantinSen's Fortressfor 500 souls",
+      "Sold byMarvellous ChesterinRoyal Woodfor 800 souls",
+      "Treasure from a chest (5 of them) inside a residence inUndead Burg"
+    ]
+  },
+  {
+    "name": "Divine Blessing",
+    "url": "http://darksouls.wikidot.com/divine-blessing",
+    "in_game_description": "Holy water from Goddess Gwynevere.Fully restores HP and undo irregularities. The Goddess of Sunlight, Gwynevere, daughter ofthe great Lord of Sunlight Gwyn, is cherishedby all as the symbol of bounty and fertility.",
+    "availability": [
+      "Select Divine Blessing as a startingGiftin a New Game",
+      "Sold byRhea of Thorolundin theUndead Parishafter saving her from theTomb of the Giantsfor 1,000 souls. Limited to 1 per playthrough",
+      "Sold byPatchesinFirelink Shrinefor 20,000 souls. Limited to 1 per playthrough",
+      "Gift fromAlvinaafter getting 1 successful kill as aForest Hunterusing theCat Covenant Ring",
+      "Treasure (x2) from a corpse in the lava area near the second tower inLost Izalith",
+      "Treasure from a chest inSen's Fortress, guarded byUndead Prince Ricard",
+      "Treasure from a chest in the upper level of the Painting building inAnor Londo",
+      "TradeRing of the Sun PrincesswithSnuggly the Crowfor 2 Divine Blessings",
+      "Drop from Red Good Vagrants spawned frompendants"
+    ]
+  },
+  {
+    "name": "Master Key",
+    "url": "http://darksouls.wikidot.com/master-key",
+    "in_game_description": "This universal key opens any basic lock.Tool of the trade for thieves. But in the cursed land of the Undead,most doors are better left unopened.",
+    "availability": [
+      "The starting item for theThiefclass",
+      "Available as a startinggiftfor any other class",
+      "Sold byDomhnall of Zenafor 5,000 souls, once he relocates toFirelink Shrine"
+    ]
+  },
+  {
+    "name": "Old Witch'S Ring",
+    "url": "http://darksouls.wikidot.com/old-witch-s-ring",
+    "in_game_description": "Old ring from an old witch. Engraved minutely withindecipherable script, but seemingly useless.",
+    "availability": [
+      "StartingGift",
+      "Trade theSunlight MaggotwithSnuggly the Crow"
+    ]
+  },
+  {
+    "name": "Pendant",
+    "url": "http://darksouls.wikidot.com/pendant",
+    "in_game_description": "",
+    "availability": [
+      "Given as astarting gift",
+      "Possible reward from a successfulForest Huntercovenant invasion",
+      "Found on the floor in front of theUndead Parishaltar ifPetrus of ThorolundkillsRhea of Thorolund(by not immediately talking to her in front of the altar after rescuing her from theTomb of the Giants)"
+    ]
+  },
+  {
+    "name": "Tiny Being'S Ring",
+    "url": "http://darksouls.wikidot.com/tiny-being-s-ring",
+    "in_game_description": "Ring made of an ancient tiny red jewel.Grants small increase to HP. Rings grant powers large and small.Their discovery, and effective use,can make one's journey easier.",
+    "availability": [
+      "Choose as agiftat the start of the game",
+      "Siegmeyer of Catarina'sgift:FollowSiegmeyer of Catarina'squest path. He rewards the player with the Tiny Being's Ring after defeating threeSilver KnightsinAnor Londo",
+      "FollowSiegmeyer of Catarina'squest path. He rewards the player with the Tiny Being's Ring after defeating threeSilver KnightsinAnor Londo"
+    ]
+  },
+  {
+    "name": "Twin Humanities",
+    "url": "http://darksouls.wikidot.com/twin-humanities",
+    "in_game_description": "",
+    "availability": [
+      "Available as a startinggift",
+      "Guaranteed drop fromChaos Witch Quelaag",
+      "Guaranteed drop fromGaping Dragon",
+      "Guaranteed drop from theForest Hunter",
+      "Guaranteed drop from someEvil Vagrants",
+      "Treasure from a corpse inLower Undead Burg, guarded bytorch-wielding Hollows",
+      "Treasure from a chest just before enteringThe Great Hollow",
+      "Treasure from a corpse on top of a stone building that houses a bonfire inLost Izalith. Use the vines to reach the top.",
+      "Drop fromHumanity Phantoms(small/medium/large: 1.11%, 2%, 4.55% drop rates)",
+      "Treasure from a corpse on the rooftop under the balcony inOolacile Township"
+    ]
+  }
+]

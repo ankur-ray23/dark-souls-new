@@ -1,0 +1,862 @@
+[
+  {
+    "category": "Small Shields (able to parry)",
+    "shields": [
+      {
+        "name": "Buckler",
+        "url": "http://darksouls.wikidot.com/buckler",
+        "in_game_description": "Very small round metal shield.Parry attacks with large center protrusion. Small shields are always less stable, butlanding critical hits after parry is easier.This shield is specialized for parrying.",
+        "availability": [
+          "Drop from the rapier-wieldingBalder Knights(1% drop rate)",
+          "Purchased from theUndead Merchant (Male)for 800 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Buckler",
+          "Damage": "55/0/0/0(Strike)",
+          "Durability": "140",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "7/13/0/0D/-/-/-",
+          "DamageReduction %": "76/32/65/53",
+          "Stability": "40"
+        }
+      },
+      {
+        "name": "Caduceus Round Shield",
+        "url": "http://darksouls.wikidot.com/caduceus-round-shield",
+        "in_game_description": "Round wooden shield crafted in Lordran.Decorated by an ancient blue Caduceus.The giant trees in Lordran are distantoffspring of the great stone archtrees.This shield inherits their properties,and the wood greatly reduces magic damage.",
+        "availability": [
+          "Firelink Shrinetreasure",
+          "From a corpse in the graveyard before enteringthe Catacombs. When you pick this item up, twoSkeletonsspawn."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Caduceus Round Shield",
+          "Damage": "50/0/0/0(Strike)",
+          "Durability": "180",
+          "Weight": "1",
+          "Stats NeededStat Bonuses": "6/0/0/0D/-/-/-",
+          "DamageReduction %": "85/65/30/65",
+          "Stability": "40"
+        }
+      },
+      {
+        "name": "Cracked Round Shield",
+        "url": "http://darksouls.wikidot.com/cracked-round-shield",
+        "in_game_description": "Round wooden shield.Cracked and nearly broken. Wood shields are lighter than metal shields,but this one has lower physical damagereduction stability, partly due to cracking.",
+        "availability": [
+          "Starting shield for thePyromancerclass",
+          "Drop fromHollowswielding this shield (1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Cracked Round Shield",
+          "Damage": "46/0/0/0(Strike)",
+          "Durability": "60",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "6/0/0/0D/-/-/-",
+          "DamageReduction %": "65/55/10/45",
+          "Stability": "30"
+        }
+      },
+      {
+        "name": "Effigy Shield",
+        "url": "http://darksouls.wikidot.com/effigy-shield",
+        "in_game_description": "Frightful occult shield. Defends againstdivine weapons and lightning. In an ill-fated plot to destroy the verygods, the followers of the occult onceattempted to steal the power ofGravelord Nito, the first of the dead.",
+        "availability": [
+          "Treasure from a corpse inTomb of the Giants",
+          "The plateau with the twoSkeleton Beastsand aSkeleton Archerhas a slope leading down. Take a right to find the corpse with the shield. Beware, aBlack Knight (Halberd)is guarding the path to the Effigy Shield; it is advised to lure him back on the plateau where you can circle him."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Effigy Shield",
+          "Damage": "60/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "180",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "101/0/0/16D/-/-/-",
+          "DamageReduction %": "90/40/70/90",
+          "Stability": "45"
+        }
+      },
+      {
+        "name": "Leather Shield",
+        "url": "http://darksouls.wikidot.com/leather-shield",
+        "in_game_description": "Round leather-covered shield.A standard, widely-used shield. Small shields are always less stable, butlanding critical hits after parry is easier.",
+        "availability": [
+          "Starting shield for theWandererclass",
+          "Purchased from theUndead Merchant (Male)inUndead Burgfor 800 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Leather Shield",
+          "Damage": "42/0/0/0(Blunt)",
+          "Durability": "200",
+          "Weight": "1",
+          "Stats NeededStat Bonuses": "6/0/0/0D/-/-/-",
+          "DamageReduction %": "85/35/60/60",
+          "Stability": "45"
+        }
+      },
+      {
+        "name": "Plank Shield",
+        "url": "http://darksouls.wikidot.com/plank-shield",
+        "in_game_description": "Makeshift shield built from wood planks.Provides minimal protection,but at a cost of moderate humiliation.",
+        "availability": [
+          "Starting shield of theDeprivedclass",
+          "Found inBlighttownin front of the hidden entrance toThe Great Hollow"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Plank Shield",
+          "Damage": "52/0/0/0(Strike)",
+          "Durability": "120",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "7/0/0/0D/-/-/-",
+          "DamageReduction %": "75/40/20/55",
+          "Stability": "45"
+        }
+      },
+      {
+        "name": "Red and White Round Shield",
+        "url": "http://darksouls.wikidot.com/red-and-white-round-shield",
+        "in_game_description": "Round wooden shield crafted in Lordranfeaturing an impressive red and white design.The giant trees in Lordran are distantoffspring of the great stone archtrees.This shield inherits their properties, andthe wood greatly reduces magic damage.",
+        "availability": [
+          "Drop fromSkeletons(sword and shield) inthe Catacombs(1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Red And White Round Shield",
+          "Damage": "50/0/0/0(Strike)",
+          "Durability": "180",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "6/0/0/0D/-/-/-",
+          "DamageReduction %": "85/65/30/65",
+          "Guard BreakReduction": "40"
+        }
+      },
+      {
+        "name": "Small Leather Shield",
+        "url": "http://darksouls.wikidot.com/small-leather-shield",
+        "in_game_description": "Small, leather-covered round shield,reinforced in critical spots with metal. Small shields are always less stable, butlanding critical hits after parry is easier.",
+        "availability": [
+          "Starting shield for theSorcererclass",
+          "Purchased from theUndead Merchant (Male)for 600 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Small Leather Shield",
+          "Damage": "40/0/0/0(Strike)",
+          "Durability": "200",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "5/0/0/0D/-/-/-",
+          "DamageReduction %": "80/35/60/60",
+          "Stability": "40"
+        }
+      },
+      {
+        "name": "Target Shield",
+        "url": "http://darksouls.wikidot.com/target-shield",
+        "in_game_description": "Small round metal shield.Four protrusions used to parry attacks. Small shields are always less stable, butlanding critical hits after parry is easier.This shield is specialized for parrying.",
+        "availability": [
+          "Starting shield for theThiefclass",
+          "Found in the lower section ofUndead Burgwith theThief Setfrom the room nearCapra Demon",
+          "Drop fromUndead Assassins(1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Target Shield",
+          "Damage": "56/0/0/0(Strike)",
+          "Durability": "150",
+          "Weight": "2.0",
+          "Stats NeededStat Bonuses": "8/11/0/0D/-/-/-",
+          "DamageReduction %": "78/30/65/50",
+          "Stability": "45"
+        }
+      },
+      {
+        "name": "Warrior's Round Shield",
+        "url": "http://darksouls.wikidot.com/warrior-s-round-shield",
+        "in_game_description": "Round wooden shield crafted in Lordran.Decorated with the ancient Labrys axe.The giant trees in Lordran are distantoffspring of the great stone archtrees.This shield inherits their properties,and the wood reduces magic damage.",
+        "availability": [
+          "Sold byUndead Merchant (Male)for 800 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Warrior's Round Shield",
+          "Damage": "50/0/0/0(Strike)",
+          "Critical Bonus": "100",
+          "Durability": "180",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "6/0/0/0D/-/-/-",
+          "DamageReduction%": "85/65/30/65",
+          "Stability": "40"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Normal Shields (able to parry)",
+    "shields": [
+      {
+        "name": "Balder Shield",
+        "url": "http://darksouls.wikidot.com/balder-shield",
+        "in_game_description": "Shield of the knights of the ancient kingdomof Balder. Tweaked for improved stability.Balder was the home of the Knight King Rendal,but the kingdom was reduced to ruins aftera widespread outbreak of Undead.",
+        "availability": [
+          "Sold byCrestfallen Merchantfor 4,000 Souls.",
+          "Drop from the Shield and Sword-wieldingBalder Knights(1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Balder Shield",
+          "Damage": "66/0/0/0(Strike)",
+          "Durability": "220",
+          "Weight": "4",
+          "Stats NeededStat Bonuses": "12/0/0/0D/-/-/-",
+          "DamageReduction %": "100/20/60/50",
+          "Stability": "63"
+        }
+      },
+      {
+        "name": "Black Knight Shield",
+        "url": "http://darksouls.wikidot.com/black-knight-shield",
+        "in_game_description": "Shield of the Black Knights that wanderLordan. A flowing canal is chiseled deeplyinto its face.Long ago, the black knights faced the chaosdemons, and were charred black, but theirshields became highly resistant to fire.",
+        "availability": [
+          "Drop fromBlack Knights(5% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Black Knight Shield",
+          "Damage": "68/0/0/0(Striking)",
+          "Durability": "250",
+          "Weight": "6.0",
+          "Stats NeededStat Bonuses": "16/0/0/0D/-/-/-",
+          "DamageReduction %": "100/25/95/65",
+          "Stability": "62"
+        }
+      },
+      {
+        "name": "Bloodshield",
+        "url": "http://darksouls.wikidot.com/bloodshield",
+        "in_game_description": "The bloodshield spoken of in the lostlegends. The red of blood is slightlyenchanted, and boosts various resistances.",
+        "availability": [
+          "Found in thePainted World of Ariamis, as the second item on the bridge with theUndead Dragon."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Bloodshield",
+          "Damage": "62/0/0/0(Strike)",
+          "Durability": "240",
+          "Weight": "3",
+          "Stats NeededStat Bonuses": "10/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/70/50",
+          "Stability": "53"
+        }
+      },
+      {
+        "name": "Caduceus Kite Shield",
+        "url": "http://darksouls.wikidot.com/caduceus-kite-shield",
+        "in_game_description": "Medium metal shield.Decorated by an ancient blue Caduceus.A standard, widely-used shield.",
+        "availability": [
+          "Sold byAndre of AstorainUndead Parish.",
+          "Drop fromUndead Crystal Soldier (Sword)inThe Duke's Archives(2% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Caduceus Kite Shield",
+          "Damage": "64/0/0/0(Strike)",
+          "Durability": "250",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "10/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/70/50",
+          "Stability": "58"
+        }
+      },
+      {
+        "name": "Crest Shield",
+        "url": "http://darksouls.wikidot.com/crest-shield",
+        "in_game_description": "Shield of a nameless knight, likely ahigh-ranked knight of Astora. One of the enchanted blue shields.The Crest Shield greatly reducesmagic damage.",
+        "availability": [
+          "Dropped after killing the hollowed version ofOscar, Knight of Astora, encountered in the NorthUndead Asylumupon revisiting the area."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Crest Shield",
+          "Damage": "62/0/0/0(Blunt)",
+          "Durability": "300",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "10/0/0/0D/-/-/-",
+          "DamageReduction %": "100/80/55/45",
+          "Stability": "55"
+        }
+      },
+      {
+        "name": "Dragon Crest Shield",
+        "url": "http://darksouls.wikidot.com/dragon-crest-shield",
+        "in_game_description": "Shield of a nameless knight, likely ahigh-ranked knight of Astora. One of the enchanted blue shields.The Dragon Crest Shield greatly reducesfire damage.",
+        "availability": [
+          "Treasure from a corpse in theValley of Drakes(alongsideAstora's Straight Sword1) between theUndead Dragon's right arm and head. Entering the area between the dragon's arm and head will cause the dragon to awaken and become hostile, therefore it is imposssible to get the sheild without waking the dragon."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Dragon Crest Shield",
+          "Damage": "62/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "300",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "102/0/0/0D/-/-/-",
+          "DamageReduction %": "100/20/85/45",
+          "Stability": "55"
+        }
+      },
+      {
+        "name": "East-West Shield",
+        "url": "http://darksouls.wikidot.com/east-west-shield",
+        "in_game_description": "Wooden shield.Decorated with the ancient symbol ofa double-headed eagle, painted yellow. Wood shields are lighter than metal shields,but with lower physical damage reduction,and reduced shield stability.",
+        "availability": [
+          "Starting equipment ofClericclass",
+          "Sold by theUndead Merchant (Male)inUndead Burgfor 400 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "East-West Shield",
+          "Damage": "52/0/0/0(Strike)",
+          "Durability": "160",
+          "Weight": "1.0",
+          "Stats NeededStat Bonuses": "6/0/0/0D/-/-/-",
+          "DamageReduction %": "88/40/30/65",
+          "Stability": "44"
+        }
+      },
+      {
+        "name": "Gargoyle's Shield",
+        "url": "http://darksouls.wikidot.com/gargoyle-s-shield",
+        "in_game_description": "Bronze shield of the gargoyle guarding theBell of Awakening in the Undead Church.The gargoyle's skin is tough by itself, andperhaps its shield may have been a prop,for it is a rare example of a metal shieldthat does not reduce physical damage by 100%.",
+        "availability": [
+          "Rare drop from theBell Gargoyles(3% drop rate)",
+          "Rare drop from theGargoyleinAnor Londo(3% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Gargoyle's Shield",
+          "Damage": "62/0/0/0(Strike)",
+          "Durability": "300",
+          "Weight": "4",
+          "Stats NeededStat Bonuses": "12/0/0/0D/-/-/-",
+          "DamageReduction %": "85/40/75/70",
+          "Stability": "56"
+        }
+      },
+      {
+        "name": "Grass Crest Shield",
+        "url": "http://darksouls.wikidot.com/grass-crest-shield",
+        "in_game_description": "Old medium metal shield of unknown origin.The grass crest is lightly imbued with magic,which slightly speeds stamina recovery.",
+        "availability": [
+          "Darkroot Basintreasure",
+          "Found at the base of the cliffs, guarded by aBlack Knight (Halberd)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Grass Crest Shield",
+          "Damage": "62/0/0/0(Strike)",
+          "Durability": "200",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "10/0/0/0D/-/-/-",
+          "DamageReduction %": "95/42/70/50",
+          "Stability": "51"
+        }
+      },
+      {
+        "name": "Heater Shield",
+        "url": "http://darksouls.wikidot.com/heater-shield",
+        "in_game_description": "Small metal shield.A standard, widely-used shield. This shield is easy to use, and is one ofthe smallest shield that offers100% physical damage reduction",
+        "availability": [
+          "Starting shield for theWarriorclass",
+          "Sold by theUndead Merchant (Male)for 1,000 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Heater Shield",
+          "Damage": "60/0/0/0(Strike)",
+          "Durability": "250",
+          "Weight": "2.0",
+          "Stats NeededStat Bonuses": "8/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/70/50",
+          "Stability": "55"
+        }
+      },
+      {
+        "name": "Hollow Soldier Shield",
+        "url": "http://darksouls.wikidot.com/hollow-soldier-shield",
+        "in_game_description": "Metal shield wielded by Hollow soldiers.Heavily rusted but sturdy, providing astrong defense.",
+        "availability": [
+          "Drop from shield-wieldingHollow Soldiers(1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Hollow Soldier Shield",
+          "Damage": "66/0/0/0(Strike)",
+          "Durability": "250",
+          "Weight": "3.5",
+          "Stats NeededStat Bonuses": "11/0/0/0D/-/-/-",
+          "DamageReduction%": "100/30/65/50",
+          "Stability": "56"
+        }
+      },
+      {
+        "name": "Iron Round Shield",
+        "url": "http://darksouls.wikidot.com/iron-round-shield",
+        "in_game_description": "Thick iron shield of Shiva of the East.Heaviest of the standard shields.Deflects enemy attacks. A famous specimenfrom Shiva's collection, but none who havefaced it have lived to tell the tale.",
+        "availability": [
+          "Drops fromShiva of the Eastwhen killed"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Iron Round Shield",
+          "Damage": "68/0/0/0(Strike)",
+          "Durability": "280",
+          "Weight": "5.0",
+          "Stats NeededStat Bonuses": "14/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/72/46",
+          "Stability": "55"
+        }
+      },
+      {
+        "name": "Knight Shield",
+        "url": "http://darksouls.wikidot.com/knight-shield",
+        "in_game_description": "This medium metal shield is elegantlycarved and painted.Although it is thought to have been used byancient knights of the nobility, its defensecapabilities are similar to other shields.",
+        "availability": [
+          "Found inUndead Parish, guarded by a loneBalder Knightto the right upon exiting the area inhabited byHollowenemies",
+          "A Crystal-upgraded version of this shield is found in aMimicchest inThe Duke's Archives"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Knight Shield",
+          "Damage": "68/0/0/0(Strike)",
+          "Durability": "200",
+          "Weight": "5.5",
+          "Stats NeededStat Bonuses": "10/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/60/40",
+          "Stability": "56"
+        }
+      },
+      {
+        "name": "Large Leather Shield",
+        "url": "http://darksouls.wikidot.com/large-leather-shield",
+        "in_game_description": "Large, leather-covered round shield.Choice shield for hunters. Wood shields are lighter than metal shields,but with lower physical damage reduction,and reduced shield stability.",
+        "availability": [
+          "Starting shield for theHunterclass",
+          "Sold byAndre of Astorafor 800 Souls",
+          "Drop fromPhalanxenemies in thePainted World of Ariamis(1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Large Leather Shield",
+          "Damage": "46/0/0/0(Strike)",
+          "Durability": "200",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "7/0/0/0D/-/-/-",
+          "DamageReduction %": "91/35/60/60",
+          "Stability": "52"
+        }
+      },
+      {
+        "name": "Sanctus",
+        "url": "http://darksouls.wikidot.com/sanctus",
+        "in_game_description": "A legendary weapon of the Way of White,granted to an Undead paladin long ago. Once blessed with the protection of a whiteflame, but its power has all but faded, sothat it provides only slight HP recovery.",
+        "availability": [
+          "Dropped by theBlack Phantomform ofPaladin Leeroyin theTomb of the Giants"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Sanctus",
+          "Damage": "62/0/0/0(Strike)",
+          "Durability": "410",
+          "Weight": "3",
+          "Stats NeededStat Bonuses": "10/0/0/18D/-/-/-",
+          "DamageReduction %": "95/40/70/50",
+          "Stability": "51"
+        }
+      },
+      {
+        "name": "Silver Knight Shield",
+        "url": "http://darksouls.wikidot.com/silver-knight-shield",
+        "in_game_description": "Shield of the Silver Knights of Anor Londo.A flowing canal is carved deep into its face.The Silver Knights stayed behind in Anor Londoto defend the illusory goddess,and their shields are blessed with herdivine protection.",
+        "availability": [
+          "Drop fromSilver KnightsofAnor Londo(1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Silver Knight Shield",
+          "Damage": "66/0/0/0(Strike)",
+          "Durability": "250",
+          "Weight": "5",
+          "Stats NeededStat Bonuses": "14/0/0/0D/-/-/-",
+          "DamageReduction %": "100/40/75/65",
+          "Stability": "64"
+        }
+      },
+      {
+        "name": "Spider Shield",
+        "url": "http://darksouls.wikidot.com/spider-shield",
+        "in_game_description": "Shield of the savage mountain bandits.Uniquely-shaped with a large black spideretched upon it.Has resistance to poison.",
+        "availability": [
+          "Starting shield for theBanditclass",
+          "Can be found as loot inDepths",
+          "Can be found as loot on the bridge in theValley of Drakes"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Spider Shield",
+          "Damage": "62/0/0/0(Strike)",
+          "Durability": "230",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "10/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/72/48",
+          "Stability": "56"
+        }
+      },
+      {
+        "name": "Sunlight Shield",
+        "url": "http://darksouls.wikidot.com/sunlight-shield",
+        "in_game_description": "Shield of Solaire of Astora, Knight ofSunlight. Decorated with a holy symbol,but Solaire illustrated it himself, and ithas no divine powers of its own. As it turnsout, Solaire's incredible prowess is a productof his own training, and nothing more.",
+        "availability": [
+          "Solaire of Astoradrop"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Sunlight Shield",
+          "Damage": "64/0/0/0(Strike)",
+          "Durability": "280",
+          "Weight": "4.0",
+          "Stats NeededStat Bonuses": "12/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/75/50",
+          "Stability": "57"
+        }
+      },
+      {
+        "name": "Tower Kite Shield",
+        "url": "http://darksouls.wikidot.com/tower-kite-shield",
+        "in_game_description": "Medium metal shield. Decorated with a tower,the symbol of protection.A standard, widely-used shield.",
+        "availability": [
+          "Starting shield for theKnightclass",
+          "Purchased fromAndre of AstorainUndead Parishfor 1,000 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Tower Kite Shield",
+          "Damage": "64/0/0/0(Strike)",
+          "Durability": "250",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "10/0/0/0D/-/-/-",
+          "DamageReduction %": "100/30/70/50",
+          "Stability": "58"
+        }
+      },
+      {
+        "name": "Wooden Shield",
+        "url": "http://darksouls.wikidot.com/wooden-shield",
+        "in_game_description": "Weapon type: ShieldAttack type: Strike Vertically elongated wooden shield.Decorated with a white dragon. Wood shields are lighter than metal shields,but with lower physical damage reduction,and reduced shield stability.",
+        "availability": [
+          "Undead Burgtreasure, near the first bonfire. From the bonfire, there is anUndead Soldierwith a crossbow. Beneath him is a door which can be opened leading to the Wooden Shield."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Wooden Shield",
+          "Damage": "54/0/0/0(Strike)",
+          "Durability": "160",
+          "Weight": "1.5",
+          "Stats NeededStat Bonuses": "7/0/0/0D/-/-/-",
+          "DamageReduction %": "93/40/30/65",
+          "Stability": "52"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Large Shields (able to bash)",
+    "shields": [
+      {
+        "name": "Black Iron Greatshield",
+        "url": "http://darksouls.wikidot.com/black-iron-greatshield",
+        "in_game_description": "Greatshield of the mighty knight Tarkus. Built of special black iron and even heavierthan Knight Berenike's tower shield.Especially resistant to fire attacks andeffective for shield bashing.",
+        "availability": [
+          "Treasure from a corpse inAnor Londo, along with theBlack Iron Setand aGreatsword. The corpse is located to the left of the giant painting that leads to thePainted World of Ariamis, guarded by aPainting Guardian."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Black Iron Greatshield",
+          "Damage": "80/0/0/0(Strike)",
+          "Durability": "230",
+          "Weight": "16.0",
+          "Stats NeededStat Bonuses": "34/0/0/0D/-/-/-",
+          "DamageReduction %": "100/40/90/50",
+          "Stability": "71"
+        }
+      },
+      {
+        "name": "Bonewheel Shield",
+        "url": "http://darksouls.wikidot.com/bonewheel-shield",
+        "in_game_description": "Giant wooden wheel encircled by spikes.Half-melded to a strange skeleton. Can be used as a great shield, only for thegreat gaps. But at least the spikes turn intoweapons with a good spin. Strange indeed!",
+        "availability": [
+          "Drop fromSkeleton Wheelinthe Catacombsand thePainted World of Ariamis(1% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Bonewheel Shield",
+          "Damage": "80/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "200",
+          "Weight": "12",
+          "Stats NeededStat Bonuses": "301/0/0/0D/-/-/-",
+          "DamageReduction %": "90/30/30/51",
+          "Stability": "66"
+        }
+      },
+      {
+        "name": "Cleansing Greatshield",
+        "url": "http://darksouls.wikidot.com/cleansing-greatshield",
+        "in_game_description": "The steel greatshield used by the Knightwho succumbed to the Abyss. Artorias, deeply scarred by the abyss,used this to form a barrier to protecthis compatriot Sif. Although this drainedthe shield, its magic defense remains high.",
+        "availability": [
+          "Left bySif, the Great Grey Wolfin theChasm of the Abyss, after followingAlvina's phantom to anIllusory Wallnear the shortcut elevator to Royal Wood and destroying all theHumanity Phantomssurrounding the young Sif."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Cleansing Greatshield",
+          "Damage": "75/0/0/0(Strike)",
+          "Durability": "300",
+          "Weight": "14.5",
+          "Stats NeededStat Bonuses": "31/0/0/0D/-/-/-",
+          "DamageReduction %": "80/80/80/70",
+          "Stability": "77"
+        }
+      },
+      {
+        "name": "Eagle Shield",
+        "url": "http://darksouls.wikidot.com/eagle-shield",
+        "in_game_description": "Greatshield with an eagle design. Lightestand easiest greatshield to handle. Greatshields are very stable, and deflectattacks. But one cannot parry, and insteadbashes with the shield.",
+        "availability": [
+          "Can be found on a horizontal stone pillar high up in the large rickety structure above the poisonous swamp inBlighttown."
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Eagle Shield",
+          "Damage": "62/0/0/0(Strike)",
+          "Durability": "300",
+          "Weight": "6",
+          "Stats NeededStat Bonuses": "16/0/0/0D/-/-/-",
+          "DamageReduction %": "95/55/45/75",
+          "Stability": "70"
+        }
+      },
+      {
+        "name": "Giant Shield",
+        "url": "http://darksouls.wikidot.com/giant-s-shield",
+        "in_game_description": "Greatshield made of bronze and marcasite.Used by Giant Sentinels ofAnor Londo.Marcasite, or white iron, is effectiveagainst non-physical damage, but as theshield is designed for the giant sentinels,its weight is unbearable.",
+        "availability": [
+          "Drop fromSentinelinAnor Londo(1% drop rate)",
+          "Sold by theGiant Blacksmithfor 10,000 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Giant Shield",
+          "Damage": "80/0/0/0(Strike)",
+          "Durability": "300",
+          "Weight": "18",
+          "Stats NeededStat Bonuses": "36/0/0/0D/-/-/-",
+          "DamageReduction %": "100/60/75/75",
+          "Stability": "68"
+        }
+      },
+      {
+        "name": "Greatshield of Artorias",
+        "url": "http://darksouls.wikidot.com/greatshield-of-artorias",
+        "in_game_description": "Shield born from the soul of the great greywolf Sif, guardian of the grave of theAbysswalker Knight Artorias.Boasts consistent defense and divineprotection against various status effects.",
+        "availability": [
+          "Created by theGiant BlacksmithinAnor Londofrom theSoul of Sifand any +10 Non-unique, non-demonShieldfor 5,000 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Greatshield of Artorias",
+          "Damage": "80/0/0/0(Strike)",
+          "Durability": "600",
+          "Weight": "16",
+          "Stats NeededStat Bonuses": "34/0/0/0D/-/-/-",
+          "DamageReduction %": "100/50/80/40",
+          "Stability": "88"
+        }
+      },
+      {
+        "name": "Havel's Greatshield",
+        "url": "http://darksouls.wikidot.com/havel-s-greatshield",
+        "in_game_description": "Greatshield of the legendary Havel the Rock.Cut straight from a great slab of stone.This greatshield is imbued with the magic ofHavel, provides strong defense, and isincredibly heavy. A true divine heirloomon par with the Dragon Tooth.",
+        "availability": [
+          "Found in a chest in a dark room behind a fireplace, blocked by anillusory wall, inAnor Londo. (The same room withHavel's Setand theDragon Tooth)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Havel's Greatshield",
+          "Damage": "84/0/0/0(Strike)",
+          "Durability": "500",
+          "Weight": "26",
+          "Stats NeededStat Bonuses": "50/0/0/0D/-/-/-",
+          "DamageReduction %": "100/90/80/80",
+          "Stability": "84"
+        }
+      },
+      {
+        "name": "Stone Greatshield",
+        "url": "http://darksouls.wikidot.com/stone-greatshield",
+        "in_game_description": "Mossy round greatshield used by the guardianof the Darkroot Garden, the Stone Knight.The Stone Knight is a creation of ancientmagic, and this shield is imbued with thesame power, but is also extremely heavy.",
+        "availability": [
+          "Drop fromGiant Stone KnightsinDarkroot Garden(2% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Stone Greatshield",
+          "Damage": "82/0/0/0(Strike)",
+          "Critical": "100",
+          "Durability": "400",
+          "Weight": "20.0",
+          "Stats NeededStat Bonuses": "381/0/0/0D/-/-/-",
+          "DamageReduction%": "100/80/75/65",
+          "Stability": "80"
+        }
+      },
+      {
+        "name": "Tower Shield",
+        "url": "http://darksouls.wikidot.com/tower-shield",
+        "in_game_description": "Metal greatshield. Used by Knight Berenike,known for his heavy armor. This thick plateof iron is heavily defensive but ultra heavy.Greatshields are very stable, and deflectattacks. However, one cannot parry,and instead bashes with the shield.",
+        "availability": [
+          "Purchased from theCrestfallen MerchantinSen's Fortressfor 8,000 Souls",
+          "Drop fromHeavy Knights(2% drop rate, 0.67% drop rate inUndead Parish)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Tower Shield",
+          "Damage": "80/0/0/0(Strike)",
+          "Durability": "300",
+          "Weight": "13.0",
+          "Stats NeededStat Bonuses": "30/0/0/0D/-/-/-",
+          "DamageReduction %": "100/40/75/50",
+          "Stability": "72"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Unique Shields",
+    "shields": [
+      {
+        "name": "Crystal Ring Shield",
+        "url": "http://darksouls.wikidot.com/crystal-ring-shield",
+        "in_game_description": "",
+        "availability": [
+          "Created by theGiant BlacksmithinAnor Londofrom theSoul of the Moonlight Butterflyand any +10Shieldfor 5,000 Souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Crystal Ring Shield",
+          "Damage": "0/100/0/0(Strike)",
+          "Durability": "120",
+          "Weight": "3",
+          "Stats NeededStat Bonuses": "10/0/0/0-/-/-/-",
+          "DamageReduction %": "70/90/70/40",
+          "Stability": "40"
+        }
+      },
+      {
+        "name": "Crystal Shield",
+        "url": "http://darksouls.wikidot.com/crystal-shield",
+        "in_game_description": "A fully crystallized straight shield.How such a weapon was createdis entirely unknown.The crystallization boosts its defense, butmakes the shield brittle. The shield cannotbe used for long, as it cannot be repaired.",
+        "availability": [
+          "Sold byDomhnall of Zenafor 4,000 souls"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Crystal Shield",
+          "Damage": "70/0/0/0(Strike)",
+          "Durability": "250",
+          "Weight": "5",
+          "Stats NeededStat Bonuses": "141/0/0/0D/-/-/-",
+          "DamageReduction %": "100/60/80/80",
+          "Stability": "60"
+        }
+      },
+      {
+        "name": "Spiked Shield",
+        "url": "http://darksouls.wikidot.com/spiked-shield",
+        "in_game_description": "Shield of the infamous Darkwraith Kirk,Knight of Thorns, Covered with spikes. Can be used as a weapon.Sharp spikes cause heavy bleeding.",
+        "availability": [
+          "Dropped byKirk Knight of ThornsinDepths,Demon ruinsorLost Izalith"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Spiked Shield",
+          "Damage": "78/0/0/0Bleed 300(Strike)",
+          "Durability": "160",
+          "Weight": "3.0",
+          "Stats NeededStat Bonuses": "10/12/0/0D/C/-/-",
+          "DamageReduction %": "90/28/69/40",
+          "Stability": "48"
+        }
+      },
+      {
+        "name": "Pierce Shield",
+        "url": "http://darksouls.wikidot.com/pierce-shield",
+        "in_game_description": "Shield of certain knights of Catarina, usedin attacks with a large protrusion in center. Can be used as a thrust weapon.",
+        "availability": [
+          "Reward fromSiegmeyer of CatarinainBlighttownif you give him 3Purple Moss Clump"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Pierce Shield",
+          "Damage": "82/0/0/0(Thrust)",
+          "Durability": "180",
+          "Weight": "3.5",
+          "Stats NeededStat Bonuses": "11/14/0/0D/C/-/-",
+          "DamageReduction%": "95/30/70/34",
+          "Stability": "49"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Other",
+    "shields": [
+      {
+        "name": "Dark Hand",
+        "url": "http://darksouls.wikidot.com/dark-hand",
+        "in_game_description": "The Darkwraiths, incited byKaathe, use thepower of the dark soul to absorb humanity, anart shared by this weapon, which also acts asa special shield. The ancients, particularly,could sap the humanity of even a repletesaint in the blink of an eye.",
+        "availability": [
+          "Join theDarkwraithCovenant",
+          "Dropped by theDarkwraithsinNew Londo Ruins(1% drop rate)"
+        ],
+        "stats_table": {
+          "Darkwraith covenant level": "0",
+          "Max. Humanities absorbed per use": "1"
+        }
+      },
+      {
+        "name": "Skull Lantern",
+        "url": "http://darksouls.wikidot.com/skull-lantern",
+        "in_game_description": "",
+        "availability": [
+          "Treasure from a corpse in theTomb of the Giants, at the bottom of the pit wherePatcheskicks you into. You can also manually drop down past the Prism Stones to get into the pit.",
+          "Drop fromNecromancers(2% drop rate)"
+        ],
+        "stats_table": {
+          "Image": "",
+          "Name": "Skull Lantern",
+          "Damage": "30/0/75/0/(Strike)",
+          "Critical": "100",
+          "Durability": "60",
+          "Weight": "0.5",
+          "Stats NeededStat Bonuses": "5/0/0/0E/-/-/-",
+          "DamageReduction%": "26/8/20/20",
+          "Stability": "16"
+        }
+      }
+    ]
+  }
+]

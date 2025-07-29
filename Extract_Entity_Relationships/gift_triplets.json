@@ -1,0 +1,277 @@
+[
+  [
+    "Binoculars",
+    "made_by",
+    "craftsman of Astora"
+  ],
+  [
+    "Binoculars",
+    "found_in",
+    "Graveyard"
+  ],
+  [
+    "Graveyard",
+    "part_of",
+    "Firelink Shrine"
+  ],
+  [
+    "Binoculars",
+    "is_starting_gift",
+    "True"
+  ],
+  [
+    "Black Firebomb",
+    "sold_by",
+    "Crestfallen Merchant"
+  ],
+  [
+    "Crestfallen Merchant",
+    "located_in",
+    "Sen's Fortress"
+  ],
+  [
+    "Black Firebomb",
+    "sold_by",
+    "Marvellous Chester"
+  ],
+  [
+    "Marvellous Chester",
+    "located_in",
+    "Royal Wood"
+  ],
+  [
+    "Black Firebomb",
+    "found_in",
+    "Undead Burg"
+  ],
+  [
+    "Divine Blessing",
+    "associated_with",
+    "Gwynevere"
+  ],
+  [
+    "Gwynevere",
+    "daughter_of",
+    "Gwyn"
+  ],
+  [
+    "Divine Blessing",
+    "sold_by",
+    "Rhea of Thorolund"
+  ],
+  [
+    "Rhea of Thorolund",
+    "located_in",
+    "Undead Parish"
+  ],
+  [
+    "Rhea of Thorolund",
+    "rescued_from",
+    "Tomb of the Giants"
+  ],
+  [
+    "Divine Blessing",
+    "sold_by",
+    "Patches"
+  ],
+  [
+    "Patches",
+    "located_in",
+    "Firelink Shrine"
+  ],
+  [
+    "Divine Blessing",
+    "gift_from",
+    "Alvina"
+  ],
+  [
+    "Alvina",
+    "requires_action",
+    "1 successful kill as Forest Hunter"
+  ],
+  [
+    "Divine Blessing",
+    "found_in",
+    "Lost Izalith"
+  ],
+  [
+    "Divine Blessing",
+    "found_in",
+    "Sen's Fortress"
+  ],
+  [
+    "Divine Blessing",
+    "guarded_by",
+    "Undead Prince Ricard"
+  ],
+  [
+    "Divine Blessing",
+    "found_in",
+    "Anor Londo"
+  ],
+  [
+    "Divine Blessing",
+    "traded_for",
+    "Ring of the Sun Princess"
+  ],
+  [
+    "Divine Blessing",
+    "traded_with",
+    "Snuggly the Crow"
+  ],
+  [
+    "Divine Blessing",
+    "dropped_by",
+    "Red Good Vagrants"
+  ],
+  [
+    "Master Key",
+    "associated_with",
+    "Thief class"
+  ],
+  [
+    "Master Key",
+    "sold_by",
+    "Domhnall of Zena"
+  ],
+  [
+    "Domhnall of Zena",
+    "relocates_to",
+    "Firelink Shrine"
+  ],
+  [
+    "Old Witch'S Ring",
+    "associated_with",
+    "old witch"
+  ],
+  [
+    "Old Witch'S Ring",
+    "starting_gift",
+    "player"
+  ],
+  [
+    "Old Witch'S Ring",
+    "traded_for",
+    "Sunlight Maggot"
+  ],
+  [
+    "Old Witch'S Ring",
+    "traded_with",
+    "Snuggly the Crow"
+  ],
+  [
+    "Pendant",
+    "given_as",
+    "starting gift"
+  ],
+  [
+    "Pendant",
+    "reward_from",
+    "Forest Hunter covenant invasion"
+  ],
+  [
+    "Pendant",
+    "found_in",
+    "Undead Parish"
+  ],
+  [
+    "Pendant",
+    "found_near",
+    "Undead Parish altar"
+  ],
+  [
+    "Petrus of Thorolund",
+    "kills",
+    "Rhea of Thorolund"
+  ],
+  [
+    "Petrus of Thorolund",
+    "associated_with",
+    "Pendant"
+  ],
+  [
+    "Rhea of Thorolund",
+    "rescued_from",
+    "Tomb of the Giants"
+  ],
+  [
+    "Rhea of Thorolund",
+    "associated_with",
+    "Pendant"
+  ],
+  [
+    "Tiny Being'S Ring",
+    "chosen_as_gift_at",
+    "start of the game"
+  ],
+  [
+    "Tiny Being'S Ring",
+    "gift_from",
+    "Siegmeyer of Catarina"
+  ],
+  [
+    "Siegmeyer of Catarina",
+    "requires_action",
+    "defeating three Silver Knights"
+  ],
+  [
+    "Siegmeyer of Catarina",
+    "located_in",
+    "Anor Londo"
+  ],
+  [
+    "Twin Humanities",
+    "available_as",
+    "starting gift"
+  ],
+  [
+    "Twin Humanities",
+    "dropped_by",
+    "Chaos Witch Quelaag"
+  ],
+  [
+    "Twin Humanities",
+    "dropped_by",
+    "Gaping Dragon"
+  ],
+  [
+    "Twin Humanities",
+    "dropped_by",
+    "Forest Hunter"
+  ],
+  [
+    "Twin Humanities",
+    "dropped_by",
+    "Evil Vagrants"
+  ],
+  [
+    "Twin Humanities",
+    "found_in",
+    "Lower Undead Burg"
+  ],
+  [
+    "Twin Humanities",
+    "guarded_by",
+    "torch-wielding Hollows"
+  ],
+  [
+    "Twin Humanities",
+    "found_in",
+    "The Great Hollow"
+  ],
+  [
+    "Twin Humanities",
+    "found_in",
+    "Lost Izalith"
+  ],
+  [
+    "Twin Humanities",
+    "dropped_by",
+    "Humanity Phantoms"
+  ],
+  [
+    "Twin Humanities",
+    "found_in",
+    "Oolacile Township"
+  ]
+]
