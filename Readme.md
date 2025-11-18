@@ -4,11 +4,10 @@
 
 ### This knowledge graph can be visualized in the Neo4j Browser
 ### Interactive Graph Browser
-- URL: https://browser.neo4j.io/?connectURL=neo4j+s://f91bfb37.databases.neo4j.io
-- Aura URI: neo4j+s://f91bfb37.databases.neo4j.io
+- URL: https://browser.neo4j.io/?connectURL=neo4j+s://2710f498.databases.neo4j.io
+- Aura URI: neo4j+s://2710f498.databases.neo4j.io
 - Username: neo4j
-- Password: C4W1Sb1vwrfyX5T5sIn1SHcb4MUBvG_ZZFoY1zPzpT0
-
+- Password: Please email for the password on dtray@tepper.cmu.edu if you want to check how the graph looks
 ## Streamlit app for Question Answers
 
 We used LangChain to create the Streamlit app
