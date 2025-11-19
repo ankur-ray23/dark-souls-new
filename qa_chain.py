@@ -2,7 +2,7 @@
 
 import os
 from langchain_community.graphs import Neo4jGraph
-from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
 from langchain_core.messages import SystemMessage
 from dotenv import load_dotenv
@@ -166,7 +166,7 @@ These are the relevant items or entities:
 
 Write a natural language summary listing these items.
 """
-                answer = llm.predict(prompt).strip()
+                answer = llm.invoke(prompt).strip()
 
             elif all(len(r) == 2 for r in rows):
                 bullet_list = "\n".join([f"- {a} → {b}" for a, b in rows])
@@ -183,7 +183,7 @@ Pairs:
 
 Summary:
 """
-                answer = llm.predict(prompt).strip()
+                answer = llm.invoke(prompt).strip()
 
             else:
                 answer = "Unsupported result format returned from the graph."
