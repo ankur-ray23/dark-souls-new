@@ -79,7 +79,7 @@ prompt = ChatPromptTemplate.from_messages([
 
 # Neo4j connection
 graph = Neo4jGraph(
-    url="neo4j+s://f91bfb37.databases.neo4j.io",
+    url="neo4j+s://2710f498.databases.neo4j.io",
     username="neo4j",
     password=os.getenv("neo4j_password")
 )
