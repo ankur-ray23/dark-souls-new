@@ -166,7 +166,7 @@ These are the relevant items or entities:
 
 Write a natural language summary listing these items.
 """
-                answer = llm.invoke(prompt).strip()
+                answer = llm.invoke(prompt).content.strip()
 
             elif all(len(r) == 2 for r in rows):
                 bullet_list = "\n".join([f"- {a} → {b}" for a, b in rows])
@@ -183,7 +183,7 @@ Pairs:
 
 Summary:
 """
-                answer = llm.invoke(prompt).strip()
+                answer = llm.invoke(prompt).content.strip()
 
             else:
                 answer = "Unsupported result format returned from the graph."
