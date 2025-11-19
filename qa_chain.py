@@ -6,7 +6,7 @@ from langchain_community.chat_models import ChatOpenAI
 from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
 from langchain_core.messages import SystemMessage
 from dotenv import load_dotenv
-from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 import re
 
 
