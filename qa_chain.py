@@ -1,7 +1,7 @@
 # test_chain.py
 
 import os
-from langchain_community.graphs import Neo4jGraph
+from langchain_neo4j import Neo4jGraph
 from langchain_openai import ChatOpenAI
 from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
 from langchain_core.messages import SystemMessage
@@ -81,7 +81,8 @@ prompt = ChatPromptTemplate.from_messages([
 graph = Neo4jGraph(
     url="neo4j+s://ea584037.databases.neo4j.io",
     username="ea584037",
-    password=os.getenv("neo4j_password")
+    password=os.getenv("neo4j_password"),
+    database="ea584037"
 )
 
 # Define the LLM
